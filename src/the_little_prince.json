@@ -1,0 +1,5135 @@
+{
+    "title": "the little prince",
+    "chapters": [
+        {},
+        {},
+        {},
+        {
+            "title": "planet",
+            "text": "I want to know more about the little prince. I want to know where he lives. The little prince asks me many questions. I also ask him questions. But he doesn’t answer my questions. But when he speaks, I slowly start to understand many things.\n\nFor example, when he looks at my plane, he asks, “What is this thing?”\n\nI answer, “It is a plane. It can fly. It is my plane.”\n\nAnd I am happy when I tell him that I can fly. Then he says, “What? Are you from the sky?”\n\n“Yes,” I say.\n\n“It is funny!”\n\nAnd the little prince starts to laugh. I am angry. My situation is not good. How can somebody think that it is funny?\n\nThen he says, “So you also come from the sky like me. What is your planet?”\n\nAt this moment I start to understand more about him. I ask, “Do you come from another planet?”\n\nBut he doesn‘t answer. He looks at my plane again. Then he says, “On this thing, you can’t come from very far.”\n\nAnd he starts to think. Then he takes the picture with his sheep. And he looks at his sheep.\n\nBut I want to know more. So I ask again, “Where is your planet? Where do you want to take your sheep?”\n\nHe is quiet. Then he says, “The box is a good thing. At night, I can use the box as a house for the sheep.”\n\n“Yes. And I can also give you a rope. Then you can tie the sheep during the day.”\n\nBut the little prince is shocked when I say this, “Tie the sheep? It is a funny idea!”\n\n“But if you don’t tie the sheep, the sheep can run away. You can lose the sheep.”\n\nThe little prince starts to laugh again.\n\n“But where can the sheep go?”\n\n“It can go to many places. It can go left. It can go right.”\n\nThe little prince says, “The sheep can go away on my planet. It is OK. Where I live, everything is so small.” He is a little sad. Then he says, “Where I live, nobody can go very far.”\n\nNow I know a second important thing. The planet of the little prince is very small. It is like a house.\n\nBut it isn’t really a big surprise. I know that we don’t have only big planets like Earth, Mars or Jupiter. We have also hundreds of other planets. These planet are sometimes very small. If you want to see these planets, you need a very good telescope.\n\nWhen an astronomer discovers such a planet, he doesn’t give the planet a name. He gives the planet only a number. The name of the planet is, for example, Asteroid 3251.",
+            "words_map": {
+                "I": {
+                    "verses": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        4,
+                        6,
+                        6,
+                        6,
+                        8,
+                        12,
+                        16,
+                        16,
+                        22,
+                        22,
+                        24,
+                        26,
+                        28,
+                        38,
+                        38,
+                        40,
+                        42
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        3,
+                        5,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        1,
+                        0,
+                        1,
+                        2,
+                        1,
+                        0,
+                        2,
+                        4,
+                        0,
+                        1
+                    ]
+                },
+                "want": {
+                    "verses": [
+                        0,
+                        0,
+                        22,
+                        22,
+                        42
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        0,
+                        2,
+                        4
+                    ]
+                },
+                "to": {
+                    "verses": [
+                        0,
+                        0,
+                        0,
+                        12,
+                        16,
+                        20,
+                        22,
+                        22,
+                        32,
+                        36,
+                        42
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        5,
+                        0,
+                        0,
+                        0,
+                        0,
+                        2,
+                        0,
+                        0,
+                        4
+                    ]
+                },
+                "know": {
+                    "verses": [
+                        0,
+                        0,
+                        22,
+                        40,
+                        42
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "more": {
+                    "verses": [
+                        0,
+                        16,
+                        22
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "about": {
+                    "verses": [
+                        0,
+                        16
+                    ],
+                    "lines": [
+                        0,
+                        0
+                    ]
+                },
+                "the": {
+                    "verses": [
+                        0,
+                        0,
+                        6,
+                        12,
+                        14,
+                        20,
+                        24,
+                        24,
+                        24,
+                        26,
+                        26,
+                        28,
+                        28,
+                        30,
+                        30,
+                        30,
+                        32,
+                        34,
+                        38,
+                        38,
+                        40,
+                        40,
+                        44,
+                        44,
+                        44,
+                        44
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        2,
+                        0,
+                        0,
+                        1,
+                        1,
+                        2,
+                        2,
+                        2,
+                        2,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        1,
+                        0,
+                        1,
+                        2,
+                        2
+                    ]
+                },
+                "little": {
+                    "verses": [
+                        0,
+                        0,
+                        12,
+                        28,
+                        32,
+                        38,
+                        38,
+                        40
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        0,
+                        0,
+                        0,
+                        0,
+                        3,
+                        1
+                    ]
+                },
+                "prince": {
+                    "verses": [
+                        0,
+                        0,
+                        12,
+                        28,
+                        32,
+                        38,
+                        40
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "where": {
+                    "verses": [
+                        0,
+                        22,
+                        22,
+                        34,
+                        38,
+                        38
+                    ],
+                    "lines": [
+                        1,
+                        1,
+                        2,
+                        0,
+                        2,
+                        4
+                    ]
+                },
+                "he": {
+                    "verses": [
+                        0,
+                        0,
+                        0,
+                        2,
+                        2,
+                        6,
+                        14,
+                        18,
+                        18,
+                        18,
+                        20,
+                        20,
+                        20,
+                        24,
+                        24,
+                        38,
+                        38,
+                        44,
+                        44
+                    ],
+                    "lines": [
+                        1,
+                        4,
+                        5,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        1,
+                        2,
+                        0,
+                        1,
+                        2,
+                        0,
+                        1,
+                        3,
+                        4,
+                        0,
+                        1
+                    ]
+                },
+                "ambiguities": {
+                    "verses": [
+                        0,
+                        6,
+                        12,
+                        36
+                    ],
+                    "lines": [
+                        1,
+                        0,
+                        1,
+                        1
+                    ],
+                    "word": [
+                        "lives",
+                        "am",
+                        "am",
+                        "left"
+                    ]
+                },
+                "ask": {
+                    "verses": [
+                        0,
+                        0,
+                        2,
+                        16,
+                        22
+                    ],
+                    "lines": [
+                        2,
+                        3,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                "me": {
+                    "verses": [
+                        0,
+                        14
+                    ],
+                    "lines": [
+                        2,
+                        0
+                    ]
+                },
+                "many": {
+                    "verses": [
+                        0,
+                        0,
+                        36
+                    ],
+                    "lines": [
+                        2,
+                        5,
+                        0
+                    ]
+                },
+                "question": {
+                    "verses": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "lines": [
+                        2,
+                        3,
+                        4
+                    ]
+                },
+                "also": {
+                    "verses": [
+                        0,
+                        14,
+                        26,
+                        42
+                    ],
+                    "lines": [
+                        3,
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                "him": {
+                    "verses": [
+                        0,
+                        6,
+                        16
+                    ],
+                    "lines": [
+                        3,
+                        0,
+                        0
+                    ]
+                },
+                "but": {
+                    "verses": [
+                        0,
+                        0,
+                        18,
+                        22,
+                        28,
+                        30,
+                        34,
+                        42
+                    ],
+                    "lines": [
+                        4,
+                        5,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "answer": {
+                    "verses": [
+                        0,
+                        4,
+                        18
+                    ],
+                    "lines": [
+                        4,
+                        0,
+                        0
+                    ]
+                },
+                "my": {
+                    "verses": [
+                        0,
+                        2,
+                        4,
+                        12,
+                        18,
+                        38
+                    ],
+                    "lines": [
+                        4,
+                        0,
+                        2,
+                        2,
+                        1,
+                        0
+                    ]
+                },
+                "when": {
+                    "verses": [
+                        0,
+                        2,
+                        6,
+                        28,
+                        44
+                    ],
+                    "lines": [
+                        5,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "speak": {
+                    "verses": [
+                        0
+                    ],
+                    "lines": [
+                        5
+                    ]
+                },
+                "slowly": {
+                    "verses": [
+                        0
+                    ],
+                    "lines": [
+                        5
+                    ]
+                },
+                "start": {
+                    "verses": [
+                        0,
+                        12,
+                        16,
+                        20,
+                        32
+                    ],
+                    "lines": [
+                        5,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "understand": {
+                    "verses": [
+                        0,
+                        16
+                    ],
+                    "lines": [
+                        5,
+                        0
+                    ]
+                },
+                "thing": {
+                    "verses": [
+                        0,
+                        2,
+                        18,
+                        24,
+                        40
+                    ],
+                    "lines": [
+                        5,
+                        0,
+                        2,
+                        1,
+                        0
+                    ]
+                },
+                "for": {
+                    "verses": [
+                        2,
+                        24,
+                        44
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        2
+                    ]
+                },
+                "example": {
+                    "verses": [
+                        2,
+                        44
+                    ],
+                    "lines": [
+                        0,
+                        2
+                    ]
+                },
+                "look": {
+                    "verses": [
+                        2,
+                        18,
+                        20
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                "at": {
+                    "verses": [
+                        2,
+                        16,
+                        18,
+                        20,
+                        24
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        1,
+                        2,
+                        2
+                    ]
+                },
+                "plane": {
+                    "verses": [
+                        2,
+                        4,
+                        4,
+                        18
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        2,
+                        1
+                    ]
+                },
+                "what": {
+                    "verses": [
+                        2,
+                        6,
+                        14
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                "be": {
+                    "verses": [
+                        2,
+                        4,
+                        4,
+                        6,
+                        10,
+                        12,
+                        12,
+                        14,
+                        22,
+                        24,
+                        24,
+                        28,
+                        28,
+                        38,
+                        38,
+                        38,
+                        40,
+                        40,
+                        42,
+                        44
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        2,
+                        2,
+                        0,
+                        2,
+                        3,
+                        1,
+                        1,
+                        0,
+                        1,
+                        0,
+                        1,
+                        1,
+                        2,
+                        3,
+                        1,
+                        2,
+                        3,
+                        2
+                    ]
+                },
+                "this": {
+                    "verses": [
+                        2,
+                        16,
+                        18,
+                        28
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        2,
+                        0
+                    ]
+                },
+                "it": {
+                    "verses": [
+                        4,
+                        4,
+                        4,
+                        10,
+                        12,
+                        28,
+                        36,
+                        36,
+                        36,
+                        38,
+                        40,
+                        42
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        2,
+                        0,
+                        3,
+                        1,
+                        0,
+                        1,
+                        2,
+                        1,
+                        2,
+                        0
+                    ]
+                },
+                "a": {
+                    "verses": [
+                        4,
+                        24,
+                        24,
+                        26,
+                        28,
+                        38,
+                        40,
+                        40,
+                        42,
+                        42,
+                        44,
+                        44,
+                        44,
+                        44
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        2,
+                        1,
+                        1,
+                        3,
+                        0,
+                        2,
+                        0,
+                        4,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "can": {
+                    "verses": [
+                        4,
+                        6,
+                        12,
+                        18,
+                        24,
+                        26,
+                        26,
+                        30,
+                        30,
+                        34,
+                        36,
+                        36,
+                        36,
+                        38,
+                        38
+                    ],
+                    "lines": [
+                        1,
+                        0,
+                        3,
+                        2,
+                        2,
+                        1,
+                        2,
+                        0,
+                        1,
+                        0,
+                        0,
+                        1,
+                        2,
+                        0,
+                        4
+                    ]
+                },
+                "fly": {
+                    "verses": [
+                        4,
+                        6
+                    ],
+                    "lines": [
+                        1,
+                        0
+                    ]
+                },
+                "and": {
+                    "verses": [
+                        6,
+                        12,
+                        20,
+                        20,
+                        26
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        0,
+                        2,
+                        1
+                    ]
+                },
+                "happy": {
+                    "verses": [
+                        6
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "tell": {
+                    "verses": [
+                        6
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "that": {
+                    "verses": [
+                        6,
+                        12,
+                        42
+                    ],
+                    "lines": [
+                        0,
+                        3,
+                        1
+                    ]
+                },
+                "then": {
+                    "verses": [
+                        6,
+                        14,
+                        18,
+                        20,
+                        24,
+                        26,
+                        38
+                    ],
+                    "lines": [
+                        1,
+                        0,
+                        2,
+                        1,
+                        1,
+                        2,
+                        4
+                    ]
+                },
+                "say": {
+                    "verses": [
+                        6,
+                        8,
+                        14,
+                        18,
+                        24,
+                        28,
+                        38,
+                        38
+                    ],
+                    "lines": [
+                        1,
+                        0,
+                        0,
+                        2,
+                        1,
+                        0,
+                        0,
+                        4
+                    ]
+                },
+                "you": {
+                    "verses": [
+                        6,
+                        14,
+                        16,
+                        18,
+                        22,
+                        26,
+                        26,
+                        30,
+                        30,
+                        42,
+                        42
+                    ],
+                    "lines": [
+                        2,
+                        0,
+                        1,
+                        2,
+                        2,
+                        1,
+                        2,
+                        0,
+                        1,
+                        4,
+                        4
+                    ]
+                },
+                "from": {
+                    "verses": [
+                        6,
+                        14,
+                        16,
+                        18
+                    ],
+                    "lines": [
+                        2,
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                "sky": {
+                    "verses": [
+                        6,
+                        14
+                    ],
+                    "lines": [
+                        2,
+                        0
+                    ]
+                },
+                "yes": {
+                    "verses": [
+                        8,
+                        26
+                    ],
+                    "lines": [
+                        0,
+                        0
+                    ]
+                },
+                "funny": {
+                    "verses": [
+                        10,
+                        12,
+                        28
+                    ],
+                    "lines": [
+                        0,
+                        3,
+                        1
+                    ]
+                },
+                "laugh": {
+                    "verses": [
+                        12,
+                        32
+                    ],
+                    "lines": [
+                        0,
+                        0
+                    ]
+                },
+                "angry": {
+                    "verses": [
+                        12
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "situation": {
+                    "verses": [
+                        12
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "not": {
+                    "verses": [
+                        12
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "good": {
+                    "verses": [
+                        12,
+                        24,
+                        42
+                    ],
+                    "lines": [
+                        2,
+                        1,
+                        4
+                    ]
+                },
+                "how": {
+                    "verses": [
+                        12
+                    ],
+                    "lines": [
+                        3
+                    ]
+                },
+                "somebody": {
+                    "verses": [
+                        12
+                    ],
+                    "lines": [
+                        3
+                    ]
+                },
+                "think": {
+                    "verses": [
+                        12,
+                        20
+                    ],
+                    "lines": [
+                        3,
+                        0
+                    ]
+                },
+                "so": {
+                    "verses": [
+                        14,
+                        22,
+                        38
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                "come": {
+                    "verses": [
+                        14,
+                        16,
+                        18
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                "like": {
+                    "verses": [
+                        14,
+                        40,
+                        42
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        1
+                    ]
+                },
+                "your": {
+                    "verses": [
+                        14,
+                        22,
+                        22
+                    ],
+                    "lines": [
+                        1,
+                        1,
+                        2
+                    ]
+                },
+                "planet": {
+                    "verses": [
+                        14,
+                        16,
+                        22,
+                        38,
+                        40,
+                        42,
+                        42,
+                        42,
+                        42,
+                        44,
+                        44,
+                        44,
+                        44
+                    ],
+                    "lines": [
+                        1,
+                        1,
+                        1,
+                        0,
+                        1,
+                        1,
+                        2,
+                        3,
+                        4,
+                        0,
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                "moment": {
+                    "verses": [
+                        16
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "do": {
+                    "verses": [
+                        16,
+                        22,
+                        30,
+                        42
+                    ],
+                    "lines": [
+                        1,
+                        2,
+                        0,
+                        1
+                    ]
+                },
+                "another": {
+                    "verses": [
+                        16
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "again": {
+                    "verses": [
+                        18,
+                        22,
+                        32
+                    ],
+                    "lines": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                "on": {
+                    "verses": [
+                        18,
+                        38
+                    ],
+                    "lines": [
+                        2,
+                        0
+                    ]
+                },
+                "very": {
+                    "verses": [
+                        18,
+                        38,
+                        40,
+                        42,
+                        42
+                    ],
+                    "lines": [
+                        2,
+                        4,
+                        1,
+                        3,
+                        4
+                    ]
+                },
+                "far": {
+                    "verses": [
+                        18,
+                        38
+                    ],
+                    "lines": [
+                        2,
+                        4
+                    ]
+                },
+                "take": {
+                    "verses": [
+                        20,
+                        22
+                    ],
+                    "lines": [
+                        1,
+                        2
+                    ]
+                },
+                "picture": {
+                    "verses": [
+                        20
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "with": {
+                    "verses": [
+                        20
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "his": {
+                    "verses": [
+                        20,
+                        20
+                    ],
+                    "lines": [
+                        1,
+                        2
+                    ]
+                },
+                "sheep": {
+                    "verses": [
+                        20,
+                        20,
+                        22,
+                        24,
+                        26,
+                        28,
+                        30,
+                        30,
+                        30,
+                        34,
+                        38
+                    ],
+                    "lines": [
+                        1,
+                        2,
+                        2,
+                        2,
+                        2,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                    ]
+                },
+                "quiet": {
+                    "verses": [
+                        24
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "box": {
+                    "verses": [
+                        24,
+                        24
+                    ],
+                    "lines": [
+                        1,
+                        2
+                    ]
+                },
+                "night": {
+                    "verses": [
+                        24
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "use": {
+                    "verses": [
+                        24
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "as": {
+                    "verses": [
+                        24
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "house": {
+                    "verses": [
+                        24,
+                        40
+                    ],
+                    "lines": [
+                        2,
+                        2
+                    ]
+                },
+                "give": {
+                    "verses": [
+                        26,
+                        44,
+                        44
+                    ],
+                    "lines": [
+                        1,
+                        0,
+                        1
+                    ]
+                },
+                "rope": {
+                    "verses": [
+                        26
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "tie": {
+                    "verses": [
+                        26,
+                        28,
+                        30
+                    ],
+                    "lines": [
+                        2,
+                        0,
+                        0
+                    ]
+                },
+                "during": {
+                    "verses": [
+                        26
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "day": {
+                    "verses": [
+                        26
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "shock": {
+                    "verses": [
+                        28
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "idea": {
+                    "verses": [
+                        28
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "if": {
+                    "verses": [
+                        30,
+                        42
+                    ],
+                    "lines": [
+                        0,
+                        4
+                    ]
+                },
+                "run": {
+                    "verses": [
+                        30
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "away": {
+                    "verses": [
+                        30,
+                        38
+                    ],
+                    "lines": [
+                        0,
+                        0
+                    ]
+                },
+                "lose": {
+                    "verses": [
+                        30
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "go": {
+                    "verses": [
+                        34,
+                        36,
+                        36,
+                        36,
+                        38,
+                        38
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        1,
+                        2,
+                        0,
+                        4
+                    ]
+                },
+                "place": {
+                    "verses": [
+                        36
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "right": {
+                    "verses": [
+                        36
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "OK": {
+                    "verses": [
+                        38
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "live": {
+                    "verses": [
+                        38,
+                        38
+                    ],
+                    "lines": [
+                        2,
+                        4
+                    ]
+                },
+                "everything": {
+                    "verses": [
+                        38
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "small": {
+                    "verses": [
+                        38,
+                        40,
+                        42
+                    ],
+                    "lines": [
+                        2,
+                        1,
+                        3
+                    ]
+                },
+                "sad": {
+                    "verses": [
+                        38
+                    ],
+                    "lines": [
+                        3
+                    ]
+                },
+                "nobody": {
+                    "verses": [
+                        38
+                    ],
+                    "lines": [
+                        4
+                    ]
+                },
+                "now": {
+                    "verses": [
+                        40
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "second": {
+                    "verses": [
+                        40
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "important": {
+                    "verses": [
+                        40
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "of": {
+                    "verses": [
+                        40,
+                        42,
+                        44
+                    ],
+                    "lines": [
+                        1,
+                        2,
+                        2
+                    ]
+                },
+                "really": {
+                    "verses": [
+                        42
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "big": {
+                    "verses": [
+                        42,
+                        42
+                    ],
+                    "lines": [
+                        0,
+                        1
+                    ]
+                },
+                "surprise": {
+                    "verses": [
+                        42
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "we": {
+                    "verses": [
+                        42,
+                        42
+                    ],
+                    "lines": [
+                        1,
+                        2
+                    ]
+                },
+                "have": {
+                    "verses": [
+                        42,
+                        42
+                    ],
+                    "lines": [
+                        1,
+                        2
+                    ]
+                },
+                "only": {
+                    "verses": [
+                        42,
+                        44
+                    ],
+                    "lines": [
+                        1,
+                        1
+                    ]
+                },
+                "earth": {
+                    "verses": [
+                        42
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "or": {
+                    "verses": [
+                        42
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "hundred": {
+                    "verses": [
+                        42
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "other": {
+                    "verses": [
+                        42
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "these": {
+                    "verses": [
+                        42,
+                        42
+                    ],
+                    "lines": [
+                        3,
+                        4
+                    ]
+                },
+                "sometimes": {
+                    "verses": [
+                        42
+                    ],
+                    "lines": [
+                        3
+                    ]
+                },
+                "see": {
+                    "verses": [
+                        42
+                    ],
+                    "lines": [
+                        4
+                    ]
+                },
+                "need": {
+                    "verses": [
+                        42
+                    ],
+                    "lines": [
+                        4
+                    ]
+                },
+                "telescope": {
+                    "verses": [
+                        42
+                    ],
+                    "lines": [
+                        4
+                    ]
+                },
+                "astronomer": {
+                    "verses": [
+                        44
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "discover": {
+                    "verses": [
+                        44
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "such": {
+                    "verses": [
+                        44
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "name": {
+                    "verses": [
+                        44,
+                        44
+                    ],
+                    "lines": [
+                        0,
+                        2
+                    ]
+                },
+                "number": {
+                    "verses": [
+                        44
+                    ],
+                    "lines": [
+                        1
+                    ]
+                }
+            },
+            "nested": [
+                [
+                    [
+                        "I",
+                        " ",
+                        "want",
+                        " ",
+                        "to",
+                        " ",
+                        "know",
+                        " ",
+                        "more",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "want",
+                        " ",
+                        "to",
+                        " ",
+                        "know",
+                        " ",
+                        "where",
+                        " ",
+                        "he",
+                        " ",
+                        "lives",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "asks",
+                        " ",
+                        "me",
+                        " ",
+                        "many",
+                        " ",
+                        "questions",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "also",
+                        " ",
+                        "ask",
+                        " ",
+                        "him",
+                        " ",
+                        "questions",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "he",
+                        " ",
+                        "doesn",
+                        "’",
+                        "t",
+                        " ",
+                        "answer",
+                        " ",
+                        "my",
+                        " ",
+                        "questions",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "when",
+                        " ",
+                        "he",
+                        " ",
+                        "speaks",
+                        ",",
+                        " ",
+                        "I",
+                        " ",
+                        "slowly",
+                        " ",
+                        "start",
+                        " ",
+                        "to",
+                        " ",
+                        "understand",
+                        " ",
+                        "many",
+                        " ",
+                        "things",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "For",
+                        " ",
+                        "example",
+                        ",",
+                        " ",
+                        "when",
+                        " ",
+                        "he",
+                        " ",
+                        "looks",
+                        " ",
+                        "at",
+                        " ",
+                        "my",
+                        " ",
+                        "plane",
+                        ",",
+                        " ",
+                        "he",
+                        " ",
+                        "asks",
+                        ",",
+                        " ",
+                        "“",
+                        "What",
+                        " ",
+                        "is",
+                        " ",
+                        "this",
+                        " ",
+                        "thing",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "I",
+                        " ",
+                        "answer",
+                        ",",
+                        " ",
+                        "“",
+                        "It",
+                        " ",
+                        "is",
+                        " ",
+                        "a",
+                        " ",
+                        "plane",
+                        "."
+                    ],
+                    [
+                        "It",
+                        " ",
+                        "can",
+                        " ",
+                        "fly",
+                        "."
+                    ],
+                    [
+                        "It",
+                        " ",
+                        "is",
+                        " ",
+                        "my",
+                        " ",
+                        "plane",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "And",
+                        " ",
+                        "I",
+                        " ",
+                        "am",
+                        " ",
+                        "happy",
+                        " ",
+                        "when",
+                        " ",
+                        "I",
+                        " ",
+                        "tell",
+                        " ",
+                        "him",
+                        " ",
+                        "that",
+                        " ",
+                        "I",
+                        " ",
+                        "can",
+                        " ",
+                        "fly",
+                        "."
+                    ],
+                    [
+                        "Then",
+                        " ",
+                        "he",
+                        " ",
+                        "says",
+                        ",",
+                        " ",
+                        "“",
+                        "What",
+                        "?"
+                    ],
+                    [
+                        "Are",
+                        " ",
+                        "you",
+                        " ",
+                        "from",
+                        " ",
+                        "the",
+                        " ",
+                        "sky",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "Yes",
+                        ",",
+                        "”",
+                        " ",
+                        "I",
+                        " ",
+                        "say",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "It",
+                        " ",
+                        "is",
+                        " ",
+                        "funny",
+                        "!",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "And",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "starts",
+                        " ",
+                        "to",
+                        " ",
+                        "laugh",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "am",
+                        " ",
+                        "angry",
+                        "."
+                    ],
+                    [
+                        "My",
+                        " ",
+                        "situation",
+                        " ",
+                        "is",
+                        " ",
+                        "not",
+                        " ",
+                        "good",
+                        "."
+                    ],
+                    [
+                        "How",
+                        " ",
+                        "can",
+                        " ",
+                        "somebody",
+                        " ",
+                        "think",
+                        " ",
+                        "that",
+                        " ",
+                        "it",
+                        " ",
+                        "is",
+                        " ",
+                        "funny",
+                        "?"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "Then",
+                        " ",
+                        "he",
+                        " ",
+                        "says",
+                        ",",
+                        " ",
+                        "“",
+                        "So",
+                        " ",
+                        "you",
+                        " ",
+                        "also",
+                        " ",
+                        "come",
+                        " ",
+                        "from",
+                        " ",
+                        "the",
+                        " ",
+                        "sky",
+                        " ",
+                        "like",
+                        " ",
+                        "me",
+                        "."
+                    ],
+                    [
+                        "What",
+                        " ",
+                        "is",
+                        " ",
+                        "your",
+                        " ",
+                        "planet",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "At",
+                        " ",
+                        "this",
+                        " ",
+                        "moment",
+                        " ",
+                        "I",
+                        " ",
+                        "start",
+                        " ",
+                        "to",
+                        " ",
+                        "understand",
+                        " ",
+                        "more",
+                        " ",
+                        "about",
+                        " ",
+                        "him",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "ask",
+                        ",",
+                        " ",
+                        "“",
+                        "Do",
+                        " ",
+                        "you",
+                        " ",
+                        "come",
+                        " ",
+                        "from",
+                        " ",
+                        "another",
+                        " ",
+                        "planet",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "But",
+                        " ",
+                        "he",
+                        " ",
+                        "doesn",
+                        "‘",
+                        "t",
+                        " ",
+                        "answer",
+                        "."
+                    ],
+                    [
+                        "He",
+                        " ",
+                        "looks",
+                        " ",
+                        "at",
+                        " ",
+                        "my",
+                        " ",
+                        "plane",
+                        " ",
+                        "again",
+                        "."
+                    ],
+                    [
+                        "Then",
+                        " ",
+                        "he",
+                        " ",
+                        "says",
+                        ",",
+                        " ",
+                        "“",
+                        "On",
+                        " ",
+                        "this",
+                        " ",
+                        "thing",
+                        ",",
+                        " ",
+                        "you",
+                        " ",
+                        "can",
+                        "’",
+                        "t",
+                        " ",
+                        "come",
+                        " ",
+                        "from",
+                        " ",
+                        "very",
+                        " ",
+                        "far",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "And",
+                        " ",
+                        "he",
+                        " ",
+                        "starts",
+                        " ",
+                        "to",
+                        " ",
+                        "think",
+                        "."
+                    ],
+                    [
+                        "Then",
+                        " ",
+                        "he",
+                        " ",
+                        "takes",
+                        " ",
+                        "the",
+                        " ",
+                        "picture",
+                        " ",
+                        "with",
+                        " ",
+                        "his",
+                        " ",
+                        "sheep",
+                        "."
+                    ],
+                    [
+                        "And",
+                        " ",
+                        "he",
+                        " ",
+                        "looks",
+                        " ",
+                        "at",
+                        " ",
+                        "his",
+                        " ",
+                        "sheep",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "But",
+                        " ",
+                        "I",
+                        " ",
+                        "want",
+                        " ",
+                        "to",
+                        " ",
+                        "know",
+                        " ",
+                        "more",
+                        "."
+                    ],
+                    [
+                        "So",
+                        " ",
+                        "I",
+                        " ",
+                        "ask",
+                        " ",
+                        "again",
+                        ",",
+                        " ",
+                        "“",
+                        "Where",
+                        " ",
+                        "is",
+                        " ",
+                        "your",
+                        " ",
+                        "planet",
+                        "?"
+                    ],
+                    [
+                        "Where",
+                        " ",
+                        "do",
+                        " ",
+                        "you",
+                        " ",
+                        "want",
+                        " ",
+                        "to",
+                        " ",
+                        "take",
+                        " ",
+                        "your",
+                        " ",
+                        "sheep",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "He",
+                        " ",
+                        "is",
+                        " ",
+                        "quiet",
+                        "."
+                    ],
+                    [
+                        "Then",
+                        " ",
+                        "he",
+                        " ",
+                        "says",
+                        ",",
+                        " ",
+                        "“",
+                        "The",
+                        " ",
+                        "box",
+                        " ",
+                        "is",
+                        " ",
+                        "a",
+                        " ",
+                        "good",
+                        " ",
+                        "thing",
+                        "."
+                    ],
+                    [
+                        "At",
+                        " ",
+                        "night",
+                        ",",
+                        " ",
+                        "I",
+                        " ",
+                        "can",
+                        " ",
+                        "use",
+                        " ",
+                        "the",
+                        " ",
+                        "box",
+                        " ",
+                        "as",
+                        " ",
+                        "a",
+                        " ",
+                        "house",
+                        " ",
+                        "for",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "Yes",
+                        "."
+                    ],
+                    [
+                        "And",
+                        " ",
+                        "I",
+                        " ",
+                        "can",
+                        " ",
+                        "also",
+                        " ",
+                        "give",
+                        " ",
+                        "you",
+                        " ",
+                        "a",
+                        " ",
+                        "rope",
+                        "."
+                    ],
+                    [
+                        "Then",
+                        " ",
+                        "you",
+                        " ",
+                        "can",
+                        " ",
+                        "tie",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        " ",
+                        "during",
+                        " ",
+                        "the",
+                        " ",
+                        "day",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "But",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "is",
+                        " ",
+                        "shocked",
+                        " ",
+                        "when",
+                        " ",
+                        "I",
+                        " ",
+                        "say",
+                        " ",
+                        "this",
+                        ",",
+                        " ",
+                        "“",
+                        "Tie",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        "?"
+                    ],
+                    [
+                        "It",
+                        " ",
+                        "is",
+                        " ",
+                        "a",
+                        " ",
+                        "funny",
+                        " ",
+                        "idea",
+                        "!",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "But",
+                        " ",
+                        "if",
+                        " ",
+                        "you",
+                        " ",
+                        "don",
+                        "’",
+                        "t",
+                        " ",
+                        "tie",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        ",",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        " ",
+                        "can",
+                        " ",
+                        "run",
+                        " ",
+                        "away",
+                        "."
+                    ],
+                    [
+                        "You",
+                        " ",
+                        "can",
+                        " ",
+                        "lose",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "The",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "starts",
+                        " ",
+                        "to",
+                        " ",
+                        "laugh",
+                        " ",
+                        "again",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "But",
+                        " ",
+                        "where",
+                        " ",
+                        "can",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        " ",
+                        "go",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "It",
+                        " ",
+                        "can",
+                        " ",
+                        "go",
+                        " ",
+                        "to",
+                        " ",
+                        "many",
+                        " ",
+                        "places",
+                        "."
+                    ],
+                    [
+                        "It",
+                        " ",
+                        "can",
+                        " ",
+                        "go",
+                        " ",
+                        "left",
+                        "."
+                    ],
+                    [
+                        "It",
+                        " ",
+                        "can",
+                        " ",
+                        "go",
+                        " ",
+                        "right",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "The",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "says",
+                        ",",
+                        " ",
+                        "“",
+                        "The",
+                        " ",
+                        "sheep",
+                        " ",
+                        "can",
+                        " ",
+                        "go",
+                        " ",
+                        "away",
+                        " ",
+                        "on",
+                        " ",
+                        "my",
+                        " ",
+                        "planet",
+                        "."
+                    ],
+                    [
+                        "It",
+                        " ",
+                        "is",
+                        " ",
+                        "OK",
+                        "."
+                    ],
+                    [
+                        "Where",
+                        " ",
+                        "I",
+                        " ",
+                        "live",
+                        ",",
+                        " ",
+                        "everything",
+                        " ",
+                        "is",
+                        " ",
+                        "so",
+                        " ",
+                        "small",
+                        ".",
+                        "”"
+                    ],
+                    [
+                        "He",
+                        " ",
+                        "is",
+                        " ",
+                        "a",
+                        " ",
+                        "little",
+                        " ",
+                        "sad",
+                        "."
+                    ],
+                    [
+                        "Then",
+                        " ",
+                        "he",
+                        " ",
+                        "says",
+                        ",",
+                        " ",
+                        "“",
+                        "Where",
+                        " ",
+                        "I",
+                        " ",
+                        "live",
+                        ",",
+                        " ",
+                        "nobody",
+                        " ",
+                        "can",
+                        " ",
+                        "go",
+                        " ",
+                        "very",
+                        " ",
+                        "far",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "Now",
+                        " ",
+                        "I",
+                        " ",
+                        "know",
+                        " ",
+                        "a",
+                        " ",
+                        "second",
+                        " ",
+                        "important",
+                        " ",
+                        "thing",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "planet",
+                        " ",
+                        "of",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "is",
+                        " ",
+                        "very",
+                        " ",
+                        "small",
+                        "."
+                    ],
+                    [
+                        "It",
+                        " ",
+                        "is",
+                        " ",
+                        "like",
+                        " ",
+                        "a",
+                        " ",
+                        "house",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "But",
+                        " ",
+                        "it",
+                        " ",
+                        "isn",
+                        "’",
+                        "t",
+                        " ",
+                        "really",
+                        " ",
+                        "a",
+                        " ",
+                        "big",
+                        " ",
+                        "surprise",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "know",
+                        " ",
+                        "that",
+                        " ",
+                        "we",
+                        " ",
+                        "don",
+                        "’",
+                        "t",
+                        " ",
+                        "have",
+                        " ",
+                        "only",
+                        " ",
+                        "big",
+                        " ",
+                        "planets",
+                        " ",
+                        "like",
+                        " ",
+                        "Earth",
+                        ",",
+                        " ",
+                        "Mars",
+                        " ",
+                        "or",
+                        " ",
+                        "Jupiter",
+                        "."
+                    ],
+                    [
+                        "We",
+                        " ",
+                        "have",
+                        " ",
+                        "also",
+                        " ",
+                        "hundreds",
+                        " ",
+                        "of",
+                        " ",
+                        "other",
+                        " ",
+                        "planets",
+                        "."
+                    ],
+                    [
+                        "These",
+                        " ",
+                        "planet",
+                        " ",
+                        "are",
+                        " ",
+                        "sometimes",
+                        " ",
+                        "very",
+                        " ",
+                        "small",
+                        "."
+                    ],
+                    [
+                        "If",
+                        " ",
+                        "you",
+                        " ",
+                        "want",
+                        " ",
+                        "to",
+                        " ",
+                        "see",
+                        " ",
+                        "these",
+                        " ",
+                        "planets",
+                        ",",
+                        " ",
+                        "you",
+                        " ",
+                        "need",
+                        " ",
+                        "a",
+                        " ",
+                        "very",
+                        " ",
+                        "good",
+                        " ",
+                        "telescope",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "When",
+                        " ",
+                        "an",
+                        " ",
+                        "astronomer",
+                        " ",
+                        "discovers",
+                        " ",
+                        "such",
+                        " ",
+                        "a",
+                        " ",
+                        "planet",
+                        ",",
+                        " ",
+                        "he",
+                        " ",
+                        "doesn",
+                        "’",
+                        "t",
+                        " ",
+                        "give",
+                        " ",
+                        "the",
+                        " ",
+                        "planet",
+                        " ",
+                        "a",
+                        " ",
+                        "name",
+                        "."
+                    ],
+                    [
+                        "He",
+                        " ",
+                        "gives",
+                        " ",
+                        "the",
+                        " ",
+                        "planet",
+                        " ",
+                        "only",
+                        " ",
+                        "a",
+                        " ",
+                        "number",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "name",
+                        " ",
+                        "of",
+                        " ",
+                        "the",
+                        " ",
+                        "planet",
+                        " ",
+                        "is",
+                        ",",
+                        " ",
+                        "for",
+                        " ",
+                        "example",
+                        ",",
+                        " ",
+                        "Asteroid",
+                        " ",
+                        "3251",
+                        "."
+                    ]
+                ]
+            ]
+        },
+        {
+            "title": "asteroid",
+            "text": "I think that the planet of the little prince is Asteroid B-612.\nIn 1909, one astronomer discovers this asteroid. The astronomer is from Turkey.\n\nHe speaks about his asteroid at a big conference. But nobody believes him because he has Turkish clothes. It is crazy but people do these things.\n\nBut there is something good for Asteroid B-612. A Turkish leader says that people in Turkey must have clothes like Europeans. The astronomer speaks about his asteroid again in 1920. He has very nice clothes. And now everybody believes him.\n\nI speak about Asteroid B-612 and I speak about its number because people like numbers. When you tell people that you have a new friend, they never ask you questions about important things. They never ask you, “Is his voice nice? What games does he play? Does he have butterflies at home?”\n\nThey ask, “How old is he? How many brothers does he have? How big is he? How much money does his father have?” If they know these numbers, they think that they know this person.\n\nIf you say to the people, “I know a small red house. It has beautiful flowers in the windows. A lot of birds fly around the house,” the people can’t imagine the house. You must say to the people, “I know a big house. It is very expensive. You can buy this house for one hundred thousand dollars.” Then the people say, “It is a nice house.”\n\nIf you say to the people, “The little prince exists because he laughs and he wants a sheep,” this information is not enough for the adults. They don’t believe you. They think that you live in a dream. But if you tell them, “The planet of the little prince is Asteroid B-612,” they believe you. This is how the people think.\n\nIf you understand life, you don’t need numbers. You need to hear a nice story. You like to hear, “The little prince lives on a small planet. The planet is very small. The little prince is alone. He wants to have a friend.” If you understand life, this is what you want to hear.",
+            "words_map": {
+                "I": {
+                    "verses": [
+                        0,
+                        7,
+                        7,
+                        11,
+                        11
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        3
+                    ]
+                },
+                "think": {
+                    "verses": [
+                        0,
+                        9,
+                        13,
+                        13
+                    ],
+                    "lines": [
+                        0,
+                        4,
+                        2,
+                        4
+                    ]
+                },
+                "that": {
+                    "verses": [
+                        0,
+                        5,
+                        7,
+                        9,
+                        13
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        1,
+                        4,
+                        2
+                    ]
+                },
+                "the": {
+                    "verses": [
+                        0,
+                        0,
+                        1,
+                        5,
+                        11,
+                        11,
+                        11,
+                        11,
+                        11,
+                        11,
+                        11,
+                        13,
+                        13,
+                        13,
+                        13,
+                        13,
+                        13,
+                        15,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        1,
+                        2,
+                        0,
+                        1,
+                        2,
+                        2,
+                        2,
+                        3,
+                        6,
+                        0,
+                        0,
+                        0,
+                        3,
+                        3,
+                        4,
+                        2,
+                        3,
+                        4
+                    ]
+                },
+                "planet": {
+                    "verses": [
+                        0,
+                        13,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        3,
+                        2,
+                        3
+                    ]
+                },
+                "of": {
+                    "verses": [
+                        0,
+                        11,
+                        13
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        3
+                    ]
+                },
+                "little": {
+                    "verses": [
+                        0,
+                        13,
+                        13,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        3,
+                        2,
+                        4
+                    ]
+                },
+                "prince": {
+                    "verses": [
+                        0,
+                        13,
+                        13,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        3,
+                        2,
+                        4
+                    ]
+                },
+                "be": {
+                    "verses": [
+                        0,
+                        1,
+                        3,
+                        5,
+                        7,
+                        9,
+                        9,
+                        11,
+                        11,
+                        13,
+                        13,
+                        13,
+                        15,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        2,
+                        0,
+                        2,
+                        0,
+                        2,
+                        4,
+                        6,
+                        0,
+                        3,
+                        4,
+                        3,
+                        4,
+                        6
+                    ]
+                },
+                "in": {
+                    "verses": [
+                        1,
+                        5,
+                        5,
+                        11,
+                        13
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        2,
+                        1,
+                        2
+                    ]
+                },
+                "one": {
+                    "verses": [
+                        1,
+                        11
+                    ],
+                    "lines": [
+                        0,
+                        5
+                    ]
+                },
+                "astronomer": {
+                    "verses": [
+                        1,
+                        1,
+                        5
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                "discover": {
+                    "verses": [
+                        1
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "this": {
+                    "verses": [
+                        1,
+                        9,
+                        11,
+                        13,
+                        13,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        4,
+                        5,
+                        0,
+                        4,
+                        6
+                    ]
+                },
+                "from": {
+                    "verses": [
+                        1
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "turkey": {
+                    "verses": [
+                        1,
+                        5
+                    ],
+                    "lines": [
+                        1,
+                        1
+                    ]
+                },
+                "he": {
+                    "verses": [
+                        3,
+                        3,
+                        5,
+                        7,
+                        7,
+                        9,
+                        9,
+                        9,
+                        13,
+                        13,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        3,
+                        3,
+                        4,
+                        0,
+                        1,
+                        2,
+                        0,
+                        0,
+                        5
+                    ]
+                },
+                "speak": {
+                    "verses": [
+                        3,
+                        5,
+                        7,
+                        7
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        0,
+                        0
+                    ]
+                },
+                "about": {
+                    "verses": [
+                        3,
+                        5,
+                        7,
+                        7,
+                        7
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "his": {
+                    "verses": [
+                        3,
+                        5,
+                        7,
+                        9
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        2,
+                        3
+                    ]
+                },
+                "at": {
+                    "verses": [
+                        3,
+                        7
+                    ],
+                    "lines": [
+                        0,
+                        4
+                    ]
+                },
+                "a": {
+                    "verses": [
+                        3,
+                        5,
+                        7,
+                        11,
+                        11,
+                        11,
+                        11,
+                        13,
+                        13,
+                        15,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        1,
+                        0,
+                        2,
+                        3,
+                        6,
+                        0,
+                        2,
+                        1,
+                        2,
+                        5
+                    ]
+                },
+                "big": {
+                    "verses": [
+                        3,
+                        9,
+                        11
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        3
+                    ]
+                },
+                "conference": {
+                    "verses": [
+                        3
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "but": {
+                    "verses": [
+                        3,
+                        3,
+                        5,
+                        13
+                    ],
+                    "lines": [
+                        1,
+                        2,
+                        0,
+                        3
+                    ]
+                },
+                "nobody": {
+                    "verses": [
+                        3
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "believe": {
+                    "verses": [
+                        3,
+                        5,
+                        13,
+                        13
+                    ],
+                    "lines": [
+                        1,
+                        4,
+                        1,
+                        3
+                    ]
+                },
+                "him": {
+                    "verses": [
+                        3,
+                        5
+                    ],
+                    "lines": [
+                        1,
+                        4
+                    ]
+                },
+                "because": {
+                    "verses": [
+                        3,
+                        7,
+                        13
+                    ],
+                    "lines": [
+                        1,
+                        0,
+                        0
+                    ]
+                },
+                "have": {
+                    "verses": [
+                        3,
+                        5,
+                        5,
+                        7,
+                        7,
+                        9,
+                        9,
+                        11,
+                        15
+                    ],
+                    "lines": [
+                        1,
+                        1,
+                        3,
+                        1,
+                        4,
+                        1,
+                        3,
+                        1,
+                        5
+                    ]
+                },
+                "clothes": {
+                    "verses": [
+                        3,
+                        5,
+                        5
+                    ],
+                    "lines": [
+                        1,
+                        1,
+                        3
+                    ]
+                },
+                "it": {
+                    "verses": [
+                        3,
+                        11,
+                        11,
+                        11
+                    ],
+                    "lines": [
+                        2,
+                        1,
+                        4,
+                        6
+                    ]
+                },
+                "crazy": {
+                    "verses": [
+                        3
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "people": {
+                    "verses": [
+                        3,
+                        5,
+                        7,
+                        7,
+                        11,
+                        11,
+                        11,
+                        11,
+                        13,
+                        13
+                    ],
+                    "lines": [
+                        2,
+                        1,
+                        0,
+                        1,
+                        0,
+                        2,
+                        3,
+                        6,
+                        0,
+                        4
+                    ]
+                },
+                "do": {
+                    "verses": [
+                        3,
+                        7,
+                        7,
+                        9,
+                        9,
+                        13,
+                        15
+                    ],
+                    "lines": [
+                        2,
+                        3,
+                        4,
+                        1,
+                        3,
+                        1,
+                        0
+                    ]
+                },
+                "these": {
+                    "verses": [
+                        3,
+                        9
+                    ],
+                    "lines": [
+                        2,
+                        4
+                    ]
+                },
+                "thing": {
+                    "verses": [
+                        3,
+                        7
+                    ],
+                    "lines": [
+                        2,
+                        1
+                    ]
+                },
+                "there": {
+                    "verses": [
+                        5
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "something": {
+                    "verses": [
+                        5
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "good": {
+                    "verses": [
+                        5
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "for": {
+                    "verses": [
+                        5,
+                        11,
+                        13
+                    ],
+                    "lines": [
+                        0,
+                        5,
+                        0
+                    ]
+                },
+                "leader": {
+                    "verses": [
+                        5
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "say": {
+                    "verses": [
+                        5,
+                        11,
+                        11,
+                        11,
+                        13
+                    ],
+                    "lines": [
+                        1,
+                        0,
+                        3,
+                        6,
+                        0
+                    ]
+                },
+                "must": {
+                    "verses": [
+                        5,
+                        11
+                    ],
+                    "lines": [
+                        1,
+                        3
+                    ]
+                },
+                "like": {
+                    "verses": [
+                        5,
+                        7,
+                        15
+                    ],
+                    "lines": [
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                "European": {
+                    "verses": [
+                        5
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "again": {
+                    "verses": [
+                        5
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "very": {
+                    "verses": [
+                        5,
+                        11,
+                        15
+                    ],
+                    "lines": [
+                        3,
+                        4,
+                        3
+                    ]
+                },
+                "nice": {
+                    "verses": [
+                        5,
+                        7,
+                        11,
+                        15
+                    ],
+                    "lines": [
+                        3,
+                        2,
+                        6,
+                        1
+                    ]
+                },
+                "and": {
+                    "verses": [
+                        5,
+                        7,
+                        13
+                    ],
+                    "lines": [
+                        4,
+                        0,
+                        0
+                    ]
+                },
+                "now": {
+                    "verses": [
+                        5
+                    ],
+                    "lines": [
+                        4
+                    ]
+                },
+                "everybody": {
+                    "verses": [
+                        5
+                    ],
+                    "lines": [
+                        4
+                    ]
+                },
+                "its": {
+                    "verses": [
+                        7
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "number": {
+                    "verses": [
+                        7,
+                        7,
+                        9,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        0,
+                        4,
+                        0
+                    ]
+                },
+                "when": {
+                    "verses": [
+                        7
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "you": {
+                    "verses": [
+                        7,
+                        7,
+                        7,
+                        7,
+                        11,
+                        11,
+                        11,
+                        13,
+                        13,
+                        13,
+                        13,
+                        13,
+                        15,
+                        15,
+                        15,
+                        15,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        1,
+                        1,
+                        1,
+                        2,
+                        0,
+                        3,
+                        5,
+                        0,
+                        1,
+                        2,
+                        3,
+                        3,
+                        0,
+                        0,
+                        1,
+                        2,
+                        6,
+                        6
+                    ]
+                },
+                "tell": {
+                    "verses": [
+                        7,
+                        13
+                    ],
+                    "lines": [
+                        1,
+                        3
+                    ]
+                },
+                "new": {
+                    "verses": [
+                        7
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "friend": {
+                    "verses": [
+                        7,
+                        15
+                    ],
+                    "lines": [
+                        1,
+                        5
+                    ]
+                },
+                "they": {
+                    "verses": [
+                        7,
+                        7,
+                        9,
+                        9,
+                        9,
+                        9,
+                        13,
+                        13,
+                        13
+                    ],
+                    "lines": [
+                        1,
+                        2,
+                        0,
+                        4,
+                        4,
+                        4,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                "never": {
+                    "verses": [
+                        7,
+                        7
+                    ],
+                    "lines": [
+                        1,
+                        2
+                    ]
+                },
+                "ask": {
+                    "verses": [
+                        7,
+                        7,
+                        9
+                    ],
+                    "lines": [
+                        1,
+                        2,
+                        0
+                    ]
+                },
+                "question": {
+                    "verses": [
+                        7
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "important": {
+                    "verses": [
+                        7
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "voice": {
+                    "verses": [
+                        7
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "what": {
+                    "verses": [
+                        7,
+                        15
+                    ],
+                    "lines": [
+                        3,
+                        6
+                    ]
+                },
+                "game": {
+                    "verses": [
+                        7
+                    ],
+                    "lines": [
+                        3
+                    ]
+                },
+                "play": {
+                    "verses": [
+                        7
+                    ],
+                    "lines": [
+                        3
+                    ]
+                },
+                "home": {
+                    "verses": [
+                        7
+                    ],
+                    "lines": [
+                        4
+                    ]
+                },
+                "how": {
+                    "verses": [
+                        9,
+                        9,
+                        9,
+                        9,
+                        13
+                    ],
+                    "lines": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ]
+                },
+                "old": {
+                    "verses": [
+                        9
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "many": {
+                    "verses": [
+                        9
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "brother": {
+                    "verses": [
+                        9
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "much": {
+                    "verses": [
+                        9
+                    ],
+                    "lines": [
+                        3
+                    ]
+                },
+                "money": {
+                    "verses": [
+                        9
+                    ],
+                    "lines": [
+                        3
+                    ]
+                },
+                "father": {
+                    "verses": [
+                        9
+                    ],
+                    "lines": [
+                        3
+                    ]
+                },
+                "if": {
+                    "verses": [
+                        9,
+                        11,
+                        13,
+                        13,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        4,
+                        0,
+                        0,
+                        3,
+                        0,
+                        6
+                    ]
+                },
+                "know": {
+                    "verses": [
+                        9,
+                        9,
+                        11,
+                        11
+                    ],
+                    "lines": [
+                        4,
+                        4,
+                        0,
+                        3
+                    ]
+                },
+                "person": {
+                    "verses": [
+                        9
+                    ],
+                    "lines": [
+                        4
+                    ]
+                },
+                "to": {
+                    "verses": [
+                        11,
+                        11,
+                        13,
+                        15,
+                        15,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        3,
+                        0,
+                        1,
+                        2,
+                        5,
+                        6
+                    ]
+                },
+                "small": {
+                    "verses": [
+                        11,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        3
+                    ]
+                },
+                "red": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "house": {
+                    "verses": [
+                        11,
+                        11,
+                        11,
+                        11,
+                        11,
+                        11
+                    ],
+                    "lines": [
+                        0,
+                        2,
+                        2,
+                        3,
+                        5,
+                        6
+                    ]
+                },
+                "beautiful": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "flower": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "window": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "lot": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "bird": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "fly": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "around": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "can": {
+                    "verses": [
+                        11,
+                        11
+                    ],
+                    "lines": [
+                        2,
+                        5
+                    ]
+                },
+                "imagine": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "expensive": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        4
+                    ]
+                },
+                "buy": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        5
+                    ]
+                },
+                "hundred": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        5
+                    ]
+                },
+                "thousand": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        5
+                    ]
+                },
+                "dollar": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        5
+                    ]
+                },
+                "then": {
+                    "verses": [
+                        11
+                    ],
+                    "lines": [
+                        6
+                    ]
+                },
+                "exist": {
+                    "verses": [
+                        13
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "laugh": {
+                    "verses": [
+                        13
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "want": {
+                    "verses": [
+                        13,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        5,
+                        6
+                    ]
+                },
+                "sheep": {
+                    "verses": [
+                        13
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "information": {
+                    "verses": [
+                        13
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "not": {
+                    "verses": [
+                        13
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "enough": {
+                    "verses": [
+                        13
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "adult": {
+                    "verses": [
+                        13
+                    ],
+                    "lines": [
+                        0
+                    ]
+                },
+                "live": {
+                    "verses": [
+                        13
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "dream": {
+                    "verses": [
+                        13
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "them": {
+                    "verses": [
+                        13
+                    ],
+                    "lines": [
+                        3
+                    ]
+                },
+                "understand": {
+                    "verses": [
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        6
+                    ]
+                },
+                "life": {
+                    "verses": [
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        6
+                    ]
+                },
+                "need": {
+                    "verses": [
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        0,
+                        1
+                    ]
+                },
+                "hear": {
+                    "verses": [
+                        15,
+                        15,
+                        15
+                    ],
+                    "lines": [
+                        1,
+                        2,
+                        6
+                    ]
+                },
+                "story": {
+                    "verses": [
+                        15
+                    ],
+                    "lines": [
+                        1
+                    ]
+                },
+                "ambiguities": {
+                    "verses": [
+                        15
+                    ],
+                    "lines": [
+                        2
+                    ],
+                    "word": [
+                        "lives"
+                    ]
+                },
+                "on": {
+                    "verses": [
+                        15
+                    ],
+                    "lines": [
+                        2
+                    ]
+                },
+                "alone": {
+                    "verses": [
+                        15
+                    ],
+                    "lines": [
+                        4
+                    ]
+                }
+            },
+            "nested": [
+                [
+                    [
+                        "I",
+                        " ",
+                        "think",
+                        " ",
+                        "that",
+                        " ",
+                        "the",
+                        " ",
+                        "planet",
+                        " ",
+                        "of",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "is",
+                        " ",
+                        "Asteroid",
+                        " ",
+                        "B",
+                        "-",
+                        "612",
+                        "."
+                    ]
+                ],
+                [
+                    [
+                        "In",
+                        " ",
+                        "1909",
+                        ",",
+                        " ",
+                        "one",
+                        " ",
+                        "astronomer",
+                        " ",
+                        "discovers",
+                        " ",
+                        "this",
+                        " ",
+                        "asteroid",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "astronomer",
+                        " ",
+                        "is",
+                        " ",
+                        "from",
+                        " ",
+                        "Turkey",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "He",
+                        " ",
+                        "speaks",
+                        " ",
+                        "about",
+                        " ",
+                        "his",
+                        " ",
+                        "asteroid",
+                        " ",
+                        "at",
+                        " ",
+                        "a",
+                        " ",
+                        "big",
+                        " ",
+                        "conference",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "nobody",
+                        " ",
+                        "believes",
+                        " ",
+                        "him",
+                        " ",
+                        "because",
+                        " ",
+                        "he",
+                        " ",
+                        "has",
+                        " ",
+                        "Turkish",
+                        " ",
+                        "clothes",
+                        "."
+                    ],
+                    [
+                        "It",
+                        " ",
+                        "is",
+                        " ",
+                        "crazy",
+                        " ",
+                        "but",
+                        " ",
+                        "people",
+                        " ",
+                        "do",
+                        " ",
+                        "these",
+                        " ",
+                        "things",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "But",
+                        " ",
+                        "there",
+                        " ",
+                        "is",
+                        " ",
+                        "something",
+                        " ",
+                        "good",
+                        " ",
+                        "for",
+                        " ",
+                        "Asteroid",
+                        " ",
+                        "B",
+                        "-",
+                        "612",
+                        "."
+                    ],
+                    [
+                        "A",
+                        " ",
+                        "Turkish",
+                        " ",
+                        "leader",
+                        " ",
+                        "says",
+                        " ",
+                        "that",
+                        " ",
+                        "people",
+                        " ",
+                        "in",
+                        " ",
+                        "Turkey",
+                        " ",
+                        "must",
+                        " ",
+                        "have",
+                        " ",
+                        "clothes",
+                        " ",
+                        "like",
+                        " ",
+                        "Europeans",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "astronomer",
+                        " ",
+                        "speaks",
+                        " ",
+                        "about",
+                        " ",
+                        "his",
+                        " ",
+                        "asteroid",
+                        " ",
+                        "again",
+                        " ",
+                        "in",
+                        " ",
+                        "1920",
+                        "."
+                    ],
+                    [
+                        "He",
+                        " ",
+                        "has",
+                        " ",
+                        "very",
+                        " ",
+                        "nice",
+                        " ",
+                        "clothes",
+                        "."
+                    ],
+                    [
+                        "And",
+                        " ",
+                        "now",
+                        " ",
+                        "everybody",
+                        " ",
+                        "believes",
+                        " ",
+                        "him",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "I",
+                        " ",
+                        "speak",
+                        " ",
+                        "about",
+                        " ",
+                        "Asteroid",
+                        " ",
+                        "B",
+                        "-",
+                        "612",
+                        " ",
+                        "and",
+                        " ",
+                        "I",
+                        " ",
+                        "speak",
+                        " ",
+                        "about",
+                        " ",
+                        "its",
+                        " ",
+                        "number",
+                        " ",
+                        "because",
+                        " ",
+                        "people",
+                        " ",
+                        "like",
+                        " ",
+                        "numbers",
+                        "."
+                    ],
+                    [
+                        "When",
+                        " ",
+                        "you",
+                        " ",
+                        "tell",
+                        " ",
+                        "people",
+                        " ",
+                        "that",
+                        " ",
+                        "you",
+                        " ",
+                        "have",
+                        " ",
+                        "a",
+                        " ",
+                        "new",
+                        " ",
+                        "friend",
+                        ",",
+                        " ",
+                        "they",
+                        " ",
+                        "never",
+                        " ",
+                        "ask",
+                        " ",
+                        "you",
+                        " ",
+                        "questions",
+                        " ",
+                        "about",
+                        " ",
+                        "important",
+                        " ",
+                        "things",
+                        "."
+                    ],
+                    [
+                        "They",
+                        " ",
+                        "never",
+                        " ",
+                        "ask",
+                        " ",
+                        "you",
+                        ",",
+                        " ",
+                        "“",
+                        "Is",
+                        " ",
+                        "his",
+                        " ",
+                        "voice",
+                        " ",
+                        "nice",
+                        "?"
+                    ],
+                    [
+                        "What",
+                        " ",
+                        "games",
+                        " ",
+                        "does",
+                        " ",
+                        "he",
+                        " ",
+                        "play",
+                        "?"
+                    ],
+                    [
+                        "Does",
+                        " ",
+                        "he",
+                        " ",
+                        "have",
+                        " ",
+                        "butterflies",
+                        " ",
+                        "at",
+                        " ",
+                        "home",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "They",
+                        " ",
+                        "ask",
+                        ",",
+                        " ",
+                        "“",
+                        "How",
+                        " ",
+                        "old",
+                        " ",
+                        "is",
+                        " ",
+                        "he",
+                        "?"
+                    ],
+                    [
+                        "How",
+                        " ",
+                        "many",
+                        " ",
+                        "brothers",
+                        " ",
+                        "does",
+                        " ",
+                        "he",
+                        " ",
+                        "have",
+                        "?"
+                    ],
+                    [
+                        "How",
+                        " ",
+                        "big",
+                        " ",
+                        "is",
+                        " ",
+                        "he",
+                        "?"
+                    ],
+                    [
+                        "How",
+                        " ",
+                        "much",
+                        " ",
+                        "money",
+                        " ",
+                        "does",
+                        " ",
+                        "his",
+                        " ",
+                        "father",
+                        " ",
+                        "have",
+                        "?",
+                        "”"
+                    ],
+                    [
+                        "If",
+                        " ",
+                        "they",
+                        " ",
+                        "know",
+                        " ",
+                        "these",
+                        " ",
+                        "numbers",
+                        ",",
+                        " ",
+                        "they",
+                        " ",
+                        "think",
+                        " ",
+                        "that",
+                        " ",
+                        "they",
+                        " ",
+                        "know",
+                        " ",
+                        "this",
+                        " ",
+                        "person",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "If",
+                        " ",
+                        "you",
+                        " ",
+                        "say",
+                        " ",
+                        "to",
+                        " ",
+                        "the",
+                        " ",
+                        "people",
+                        ",",
+                        " ",
+                        "“",
+                        "I",
+                        " ",
+                        "know",
+                        " ",
+                        "a",
+                        " ",
+                        "small",
+                        " ",
+                        "red",
+                        " ",
+                        "house",
+                        "."
+                    ],
+                    [
+                        "It",
+                        " ",
+                        "has",
+                        " ",
+                        "beautiful",
+                        " ",
+                        "flowers",
+                        " ",
+                        "in",
+                        " ",
+                        "the",
+                        " ",
+                        "windows",
+                        "."
+                    ],
+                    [
+                        "A",
+                        " ",
+                        "lot",
+                        " ",
+                        "of",
+                        " ",
+                        "birds",
+                        " ",
+                        "fly",
+                        " ",
+                        "around",
+                        " ",
+                        "the",
+                        " ",
+                        "house",
+                        ",",
+                        "”",
+                        " ",
+                        "the",
+                        " ",
+                        "people",
+                        " ",
+                        "can",
+                        "’",
+                        "t",
+                        " ",
+                        "imagine",
+                        " ",
+                        "the",
+                        " ",
+                        "house",
+                        "."
+                    ],
+                    [
+                        "You",
+                        " ",
+                        "must",
+                        " ",
+                        "say",
+                        " ",
+                        "to",
+                        " ",
+                        "the",
+                        " ",
+                        "people",
+                        ",",
+                        " ",
+                        "“",
+                        "I",
+                        " ",
+                        "know",
+                        " ",
+                        "a",
+                        " ",
+                        "big",
+                        " ",
+                        "house",
+                        "."
+                    ],
+                    [
+                        "It",
+                        " ",
+                        "is",
+                        " ",
+                        "very",
+                        " ",
+                        "expensive",
+                        "."
+                    ],
+                    [
+                        "You",
+                        " ",
+                        "can",
+                        " ",
+                        "buy",
+                        " ",
+                        "this",
+                        " ",
+                        "house",
+                        " ",
+                        "for",
+                        " ",
+                        "one",
+                        " ",
+                        "hundred",
+                        " ",
+                        "thousand",
+                        " ",
+                        "dollars",
+                        ".",
+                        "”"
+                    ],
+                    [
+                        "Then",
+                        " ",
+                        "the",
+                        " ",
+                        "people",
+                        " ",
+                        "say",
+                        ",",
+                        " ",
+                        "“",
+                        "It",
+                        " ",
+                        "is",
+                        " ",
+                        "a",
+                        " ",
+                        "nice",
+                        " ",
+                        "house",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "If",
+                        " ",
+                        "you",
+                        " ",
+                        "say",
+                        " ",
+                        "to",
+                        " ",
+                        "the",
+                        " ",
+                        "people",
+                        ",",
+                        " ",
+                        "“",
+                        "The",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "exists",
+                        " ",
+                        "because",
+                        " ",
+                        "he",
+                        " ",
+                        "laughs",
+                        " ",
+                        "and",
+                        " ",
+                        "he",
+                        " ",
+                        "wants",
+                        " ",
+                        "a",
+                        " ",
+                        "sheep",
+                        ",",
+                        "”",
+                        " ",
+                        "this",
+                        " ",
+                        "information",
+                        " ",
+                        "is",
+                        " ",
+                        "not",
+                        " ",
+                        "enough",
+                        " ",
+                        "for",
+                        " ",
+                        "the",
+                        " ",
+                        "adults",
+                        "."
+                    ],
+                    [
+                        "They",
+                        " ",
+                        "don",
+                        "’",
+                        "t",
+                        " ",
+                        "believe",
+                        " ",
+                        "you",
+                        "."
+                    ],
+                    [
+                        "They",
+                        " ",
+                        "think",
+                        " ",
+                        "that",
+                        " ",
+                        "you",
+                        " ",
+                        "live",
+                        " ",
+                        "in",
+                        " ",
+                        "a",
+                        " ",
+                        "dream",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "if",
+                        " ",
+                        "you",
+                        " ",
+                        "tell",
+                        " ",
+                        "them",
+                        ",",
+                        " ",
+                        "“",
+                        "The",
+                        " ",
+                        "planet",
+                        " ",
+                        "of",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "is",
+                        " ",
+                        "Asteroid",
+                        " ",
+                        "B",
+                        "-",
+                        "612",
+                        ",",
+                        "”",
+                        " ",
+                        "they",
+                        " ",
+                        "believe",
+                        " ",
+                        "you",
+                        "."
+                    ],
+                    [
+                        "This",
+                        " ",
+                        "is",
+                        " ",
+                        "how",
+                        " ",
+                        "the",
+                        " ",
+                        "people",
+                        " ",
+                        "think",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "If",
+                        " ",
+                        "you",
+                        " ",
+                        "understand",
+                        " ",
+                        "life",
+                        ",",
+                        " ",
+                        "you",
+                        " ",
+                        "don",
+                        "’",
+                        "t",
+                        " ",
+                        "need",
+                        " ",
+                        "numbers",
+                        "."
+                    ],
+                    [
+                        "You",
+                        " ",
+                        "need",
+                        " ",
+                        "to",
+                        " ",
+                        "hear",
+                        " ",
+                        "a",
+                        " ",
+                        "nice",
+                        " ",
+                        "story",
+                        "."
+                    ],
+                    [
+                        "You",
+                        " ",
+                        "like",
+                        " ",
+                        "to",
+                        " ",
+                        "hear",
+                        ",",
+                        " ",
+                        "“",
+                        "The",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "lives",
+                        " ",
+                        "on",
+                        " ",
+                        "a",
+                        " ",
+                        "small",
+                        " ",
+                        "planet",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "planet",
+                        " ",
+                        "is",
+                        " ",
+                        "very",
+                        " ",
+                        "small",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "is",
+                        " ",
+                        "alone",
+                        "."
+                    ],
+                    [
+                        "He",
+                        " ",
+                        "wants",
+                        " ",
+                        "to",
+                        " ",
+                        "have",
+                        " ",
+                        "a",
+                        " ",
+                        "friend",
+                        ".",
+                        "”"
+                    ],
+                    [
+                        "If",
+                        " ",
+                        "you",
+                        " ",
+                        "understand",
+                        " ",
+                        "life",
+                        ",",
+                        " ",
+                        "this",
+                        " ",
+                        "is",
+                        " ",
+                        "what",
+                        " ",
+                        "you",
+                        " ",
+                        "want",
+                        " ",
+                        "to",
+                        " ",
+                        "hear",
+                        "."
+                    ]
+                ]
+            ]
+        }
+    ]
+}
