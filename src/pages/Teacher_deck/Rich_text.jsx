@@ -8,16 +8,18 @@ const Text_book = () => {
   const [promp, set_promp] = useState("");
   const [promp_color, set_promp_color] = useState('')
   return (
-    <>
-      <span className={`w-40 h-10 p-2 font-bold mb-1 ${promp_color} rounded-sm bg-stone-400`} >
-        {promp}
-      </span>
+    <div className="relative h-full overflow-y-auto border rounded shadow-sm shadow-stone-401">
+      <div className="sticky top-0 pb-2 bg-white">
+        <div className={` w-40 h-10 p-2 font-bold ${promp_color} rounded-sm bg-stone-400`} >
+          {promp}
+        </div>
+      </div>
       <div
         contentEditable={true}
-        className='w-full p-5 overflow-y-auto border rounded shadow-sm outline-none shadow-stone-400'
+        className='w-full p-5 outline-none'
         onInput={(evt) => { give_last_word(evt.target.innerText.split(' ')) }} >
       </div>
-    </>
+    </div>
   )
 
   function give_last_word(paragraphs) {
@@ -122,28 +124,33 @@ const Rich_text = () => {
   }
 
   return (
-    <div className="flex flex-col justify-between w-full min-h-screen">
-      <main className="flex flex-col p-5 px-10 grow">
-        <h2 className="text-center capitalize">
-          Write what you want
-        </h2>
-        <div className="container flex flex-col mx-auto -mt-6 grow">
-          <section className="flex flex-col grow">
-            <div className="w-full grow" >
-              <Text_book />
-            </div>
-            <div className="flex mt-2 h-60">
-              <div className="w-2/3 px-3 overflow-y-auto border">
-                <Suggested_words />
-              </div>
-              <div className="grid items-start w-1/3 grid-cols-4 grid-rows-4 p-5 overflow-y-auto border">
-                <Fresh_list />
-              </div>
-            </div>
-          </section>
+    <div className="h-screen">
+      <main className="container flex flex-col h-screen px-10 pt-16 mx-auto">
+        <header className="h-24">
+          <h2
+            contentEditable='true'
+            className="text-center capitalize">
+            book...
+          </h2>
+          <h3
+            contentEditable='true'
+            className="text-center uppercase text-slate-400">
+            chapter...
+          </h3>
+        </header>
+        <div className="h-3/5 " >
+          <Text_book />
+        </div>
+        <div className="flex h-1/5 ">
+          <div className="w-2/3 px-3 overflow-y-auto border">
+            <Suggested_words />
+          </div>
+          <div className="grid items-start w-1/3 grid-cols-4 grid-rows-4 p-5 overflow-y-auto border">
+            <Fresh_list />
+          </div>
         </div>
       </main>
-      <footer className="flex items-center py-6 text-xl bg-stone-400 justify-evenly">
+      <footer className="sticky bottom-0 flex items-center w-full text-lg h-14 bg-stone-400 justify-evenly">
         <Word_classes />
       </footer>
     </div >

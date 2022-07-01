@@ -11,10 +11,17 @@ const Text_library = () => {
     const [search, set_search_tern] = useState('I') // set_search BACKEND
     const [chapter, set_chapter] = useState(3)
     const [show_dict, set_show_dict] = useState(false)
+    const [ipa, set_ipa] = useState()
 
     function set_search(term) {
         const lemma = lemmas[term]
         set_search_tern(lemma)
+        dict[lemma] ? dict[lemma]['pronunciation']['US'] ? set_ipa(dict[lemma]['pronunciation']['US'].split(',')[0])
+            : dict[lemma]['pronunciation']['IPA'] ? set_ipa(dict[lemma]['pronunciation']['IPA'].split(',')[0])
+                :
+                set_ipa('')
+            :
+            set_ipa('')
     }
 
     const Occurrences = ({ term, readed }) => (
@@ -26,9 +33,9 @@ const Text_library = () => {
                         const { verses, lines } = text['words_map'][term]
                         verses && acc.push(
                             <div key={i}>
-                                <div className='pl-0 mb-3 text-right uppercase text-slate-400'>{text.title}</div>
+                                <div className='pl-0 mb-3 text-right text-blue-400 uppercase'>{text.title}</div>
                                 {verses.map((p, i) => (
-                                    <div key={i} className='mb-2 '>
+                                    <div key={i} className='mb-2 hover:text-blue-400'>
                                         {text['nested'][p][lines[i]]}
                                     </div>
                                 ))}
@@ -46,13 +53,13 @@ const Text_library = () => {
                 term in dict && dict[term]['meanings'] &&
                 dict[term]['meanings'].map((m, i) => (
                     <div key={i}>
-                        <div className='text-right uppercase text-slate-400'>
+                        <div className='text-right text-blue-400 uppercase'>
                             {m['class']}
                         </div>
                         <div >
                             {
                                 m['examples'].map((e, i) => (
-                                    <div key={i} className='mb-2 text-slate-400 hover:text-neutral-800'>
+                                    <div key={i} className='mb-2 text-neutral-800 hover:text-blue-400'>
                                         <p>
                                             {e}
                                         </p>
@@ -92,8 +99,8 @@ const Text_library = () => {
                             </button>
                         </div>
                     </header>
-                    <section className='px-10 text-lg text-justify pb-52'>
-                        <h3 className="mb-4 uppercase text-slate-400">{text.chapters[chapter].title}</h3>
+                    <section className='px-10 text-lg text-justify pb-96'>
+                        <h3 className="mb-4 text-blue-400 uppercase">{text.chapters[chapter].title}</h3>
                         <Hiper_text paragraphs={text.chapters[chapter].nested} search={search} set_search={set_search} />
                     </section>
                 </article>
@@ -105,11 +112,14 @@ const Text_library = () => {
                             </svg>
                             <input type="text" className='w-1/2 h-6 px-3 rounded outline-none bg-stone-100' />
                         </span>
-                        <button className='text-lg btn min-w-fit'>Class Notes</button>
+                        {/* <button className='text-lg btn min-w-fit'>Class Notes</button> */}
                     </header>
                     <section className='text-base'>
-                        <header className='sticky flex items-baseline justify-between pr-5 bg-white top-12'>
-                            <h3 className="capitalize text-amber-500">{search}</h3>
+                        <header className='sticky flex items-baseline justify-between pr-5 bg-stone-100 top-12'>
+                            <div>
+                                <h3 className="inline-block text-red-900 capitalize">{search}</h3>
+                                <span>{ipa}</span>
+                            </div>
                             <div className='flex gap-2'>
                                 <button className='btn' onClick={() => set_show_dict(false)}>Occurrences</button>
                                 <button className='btn' onClick={() => set_show_dict(true)}>Dictionary</button>

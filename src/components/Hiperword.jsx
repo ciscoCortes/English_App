@@ -49,7 +49,7 @@ const Hiperword = ({ word = '', phonetic_aids, aids_map, search, set_search, id,
             }
             <button
                 title={phonetic_aids}
-                className={`font-light ${search === word.toLocaleLowerCase() && 'font-medium'} ${highlight === id && 'text-green-900'}`}
+                className={`font-light ${search === word.toLocaleLowerCase() && 'font-medium'} ${highlight === id && 'text-blue-400'}`}
                 onClick={() => {
                     set_highlight(id)
                     set_search(word.toLocaleLowerCase())
