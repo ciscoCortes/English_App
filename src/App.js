@@ -6,6 +6,7 @@ import Teacher_deck from "./pages/Teacher_deck/Teacher_deck";
 import Text_library from "./pages/text_library";
 import Phonetic_aids_editor from "./pages/Teacher_deck/Ponetic_aids_editor";
 import Rich_text from "./pages/Teacher_deck/Rich_text";
+import Reading_assistand from "./pages/Reading_assistand";
 
 function App() {
   const words = ['this', 'that']
@@ -18,6 +19,7 @@ function App() {
           <Route path="editor" element={<Phonetic_aids_editor words={words} />} />
           <Route path="deck" element={<Rich_text />} />
         </Route>
+        <Route path="/assistand" element={<Reading_assistand />} />
         <Route path="/library" element={<Text_library />} />
       </Routes>
     </Router>

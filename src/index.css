@@ -26,6 +26,11 @@
   @apply text-neutral-800
 }
 
+.box{
+  @apply rounded;
+  @apply shadow-sm;
+  @apply shadow-stone-400; 
+}
 
 .btn {
   position: relative;

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Hiperword from "./Hiperword";
 
-const Hyper_text = ({ paragraphs = [], search, set_search }) => {
+const Hyper_text = ({ paragraphs = [], set_search, search }) => {
     const [highlight, set_highlight] = useState('')
     paragraphs = paragraphs.map(p => p.reduce((acc, sentence) => [...acc, ' ', ...sentence], []))
     return (
@@ -11,6 +11,7 @@ const Hyper_text = ({ paragraphs = [], search, set_search }) => {
                 p.length == 0 ? <br key={pi} />
                     :
                     <div key={pi}>
+                        <sup className="font-semibold text-purple-900 ">{pi + 1}</sup>
                         {
                             p.reduce((acc, word, i) => {
                                 let lemma = ''

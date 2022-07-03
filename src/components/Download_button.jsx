@@ -1,7 +1,7 @@
 
 const Download_button = ({ children, file, file_name = 'new_file.js', content_type = 'text/plain' }) => {
     return (
-        <button className="absolute bottom-0 right-0 px-4 py-1 text-xl rounded-md shadow-lg m-52 hover:bg-slate-400 bg-slate-200"
+        <button
             onClick={() => download(file, file_name, content_type)}>
             {children}
         </button>

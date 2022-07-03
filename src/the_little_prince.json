@@ -5130,6 +5130,6024 @@
                     ]
                 ]
             ]
+        },
+        {
+            "title": "asteroid",
+            "text": "This all happened six years ago. When I look at these memories, I feel sad. But I describe the little prince here, because I don’t want to forget him. It’s sad to forget a friend. Not everybody had a friend.\n\nSo that’s why I bought a box of paints and some pencils. It’s hard to start drawing, at my age, after so long time again.\n\nI will try, of course, to make my pictures as true to life as possible. But I’m not quite sure what the result will be. One picture is alright, and another doesn’t look like what I tried to draw. I make some mistakes on the size too. Here the little prince is too tall. Here he is too short. I’m not also sure about the colour of his clothes. But I will try to do my best.\n\nIn some other details I will make mistakes too. But here you have to forgive me. It’s not my fault. My friend never explained anything to me. Maybe he thought that I was like him. But I, unfortunately, don’t know how to see the sheep through the walls of a box. Maybe it’s because I’m a little like the adults. Maybe, I’m already old.\n\nEvery day I learnt something about the little prince’s planet. I learnt about his departure from it, about his journey. The information came very slowly, usually during moments when the little prince was thinking about his past.\n\nOn the third day, I learnt about the problem with the baobabs. Baobabs are big trees. I learnt about the problem thanks to a question about the sheep that the little prince asked me.\n\n“Is it true that sheep eat little bushes?”\n\n“Yes. That’s true.”\n\n“Ah! That’s good.”\n\nI didn’t understand why it was so important that sheep ate little bushes. But the little prince added,\n\n“So they also eat baobabs?”\n\nI told the little prince that baobabs aren’t little bushes. The baobabs are right the opposite. They are trees as large as churches. And that even if he took nine big elephants back to his planet, those elephants couldn’t eat one single baobab.\n\nThe idea of ​​nine elephants made the little prince laugh, “They would have to stand on each other.”\n\nBut he said something clever, “The baobabs, before they grow so big, they’re very small at the beginning.”\n\n“That’s right,” I said. “But why is it important that your sheep eats the little baobabs?”\n\nHe said, “Oh, come on! You know,” as if we were talking about something clear and simple. And then I had to use my intelligence to solve the problem, without any assistance.",
+            "words_map": {
+                "this": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "all": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "happen": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "six": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "year": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "ago": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "when": {
+                    "paragraph": [
+                        0,
+                        8
+                    ],
+                    "sentence": [
+                        1,
+                        2
+                    ]
+                },
+                "I": {
+                    "paragraph": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        2,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        6,
+                        6,
+                        6,
+                        6,
+                        6,
+                        8,
+                        8,
+                        10,
+                        10,
+                        18,
+                        22,
+                        28,
+                        30
+                    ],
+                    "sentence": [
+                        1,
+                        1,
+                        2,
+                        2,
+                        0,
+                        0,
+                        1,
+                        2,
+                        3,
+                        6,
+                        7,
+                        0,
+                        4,
+                        5,
+                        6,
+                        7,
+                        0,
+                        1,
+                        0,
+                        2,
+                        0,
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                "look": {
+                    "paragraph": [
+                        0,
+                        4
+                    ],
+                    "sentence": [
+                        1,
+                        2
+                    ]
+                },
+                "at": {
+                    "paragraph": [
+                        0,
+                        2,
+                        26
+                    ],
+                    "sentence": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                "these": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "memory": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "feel": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "sad": {
+                    "paragraph": [
+                        0,
+                        0
+                    ],
+                    "sentence": [
+                        1,
+                        3
+                    ]
+                },
+                "but": {
+                    "paragraph": [
+                        0,
+                        4,
+                        4,
+                        6,
+                        6,
+                        18,
+                        26,
+                        28
+                    ],
+                    "sentence": [
+                        2,
+                        1,
+                        7,
+                        1,
+                        5,
+                        1,
+                        0,
+                        1
+                    ]
+                },
+                "describe": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "the": {
+                    "paragraph": [
+                        0,
+                        4,
+                        4,
+                        4,
+                        4,
+                        6,
+                        6,
+                        6,
+                        8,
+                        8,
+                        8,
+                        10,
+                        10,
+                        10,
+                        10,
+                        10,
+                        10,
+                        18,
+                        22,
+                        22,
+                        22,
+                        24,
+                        24,
+                        26,
+                        26,
+                        28,
+                        30
+                    ],
+                    "sentence": [
+                        2,
+                        1,
+                        3,
+                        4,
+                        6,
+                        5,
+                        5,
+                        6,
+                        0,
+                        2,
+                        2,
+                        0,
+                        0,
+                        0,
+                        2,
+                        2,
+                        2,
+                        1,
+                        0,
+                        1,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                "little": {
+                    "paragraph": [
+                        0,
+                        4,
+                        6,
+                        8,
+                        8,
+                        10,
+                        12,
+                        18,
+                        18,
+                        22,
+                        22,
+                        24,
+                        28
+                    ],
+                    "sentence": [
+                        2,
+                        4,
+                        6,
+                        0,
+                        2,
+                        2,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "prince": {
+                    "paragraph": [
+                        0,
+                        4,
+                        8,
+                        8,
+                        10,
+                        18,
+                        22,
+                        24
+                    ],
+                    "sentence": [
+                        2,
+                        4,
+                        0,
+                        2,
+                        2,
+                        1,
+                        0,
+                        0
+                    ]
+                },
+                "here": {
+                    "paragraph": [
+                        0,
+                        4,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        2,
+                        4,
+                        5,
+                        1
+                    ]
+                },
+                "because": {
+                    "paragraph": [
+                        0,
+                        6
+                    ],
+                    "sentence": [
+                        2,
+                        6
+                    ]
+                },
+                "do": {
+                    "paragraph": [
+                        0,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        2,
+                        7,
+                        5
+                    ]
+                },
+                "want": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "to": {
+                    "paragraph": [
+                        0,
+                        0,
+                        2,
+                        4,
+                        4,
+                        4,
+                        4,
+                        6,
+                        6,
+                        6,
+                        10,
+                        22,
+                        24,
+                        30,
+                        30
+                    ],
+                    "sentence": [
+                        2,
+                        3,
+                        1,
+                        0,
+                        0,
+                        2,
+                        7,
+                        1,
+                        3,
+                        5,
+                        2,
+                        3,
+                        0,
+                        2,
+                        2
+                    ]
+                },
+                "forget": {
+                    "paragraph": [
+                        0,
+                        0
+                    ],
+                    "sentence": [
+                        2,
+                        3
+                    ]
+                },
+                "him": {
+                    "paragraph": [
+                        0,
+                        6
+                    ],
+                    "sentence": [
+                        2,
+                        4
+                    ]
+                },
+                "it": {
+                    "paragraph": [
+                        0,
+                        2,
+                        6,
+                        6,
+                        8,
+                        12,
+                        18,
+                        28
+                    ],
+                    "sentence": [
+                        3,
+                        1,
+                        2,
+                        6,
+                        1,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "be": {
+                    "paragraph": [
+                        0,
+                        2,
+                        2,
+                        4,
+                        4,
+                        4,
+                        4,
+                        6,
+                        6,
+                        6,
+                        8,
+                        8,
+                        10,
+                        12,
+                        14,
+                        16,
+                        18,
+                        22,
+                        22,
+                        28,
+                        28,
+                        30
+                    ],
+                    "sentence": [
+                        3,
+                        0,
+                        1,
+                        1,
+                        2,
+                        4,
+                        5,
+                        2,
+                        4,
+                        6,
+                        0,
+                        2,
+                        1,
+                        0,
+                        1,
+                        1,
+                        0,
+                        1,
+                        2,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                "a": {
+                    "paragraph": [
+                        0,
+                        0,
+                        2,
+                        6,
+                        6,
+                        10
+                    ],
+                    "sentence": [
+                        3,
+                        4,
+                        0,
+                        5,
+                        6,
+                        2
+                    ]
+                },
+                "friend": {
+                    "paragraph": [
+                        0,
+                        0,
+                        6
+                    ],
+                    "sentence": [
+                        3,
+                        4,
+                        3
+                    ]
+                },
+                "not": {
+                    "paragraph": [
+                        0,
+                        4,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        4,
+                        1,
+                        6,
+                        2
+                    ]
+                },
+                "everybody": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        4
+                    ]
+                },
+                "have": {
+                    "paragraph": [
+                        0,
+                        6,
+                        24,
+                        30
+                    ],
+                    "sentence": [
+                        4,
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                "so": {
+                    "paragraph": [
+                        2,
+                        2,
+                        18,
+                        20,
+                        26
+                    ],
+                    "sentence": [
+                        0,
+                        1,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "that": {
+                    "paragraph": [
+                        2,
+                        6,
+                        10,
+                        12,
+                        14,
+                        16,
+                        18,
+                        22,
+                        22,
+                        28,
+                        28
+                    ],
+                    "sentence": [
+                        0,
+                        4,
+                        2,
+                        0,
+                        1,
+                        1,
+                        0,
+                        0,
+                        3,
+                        0,
+                        1
+                    ]
+                },
+                "why": {
+                    "paragraph": [
+                        2,
+                        18,
+                        28
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "buy": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "box": {
+                    "paragraph": [
+                        2,
+                        6
+                    ],
+                    "sentence": [
+                        0,
+                        5
+                    ]
+                },
+                "of": {
+                    "paragraph": [
+                        2,
+                        4,
+                        4,
+                        6,
+                        24
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        6,
+                        5,
+                        0
+                    ]
+                },
+                "paint": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "and": {
+                    "paragraph": [
+                        2,
+                        4,
+                        22,
+                        30,
+                        30
+                    ],
+                    "sentence": [
+                        0,
+                        2,
+                        3,
+                        1,
+                        2
+                    ]
+                },
+                "some": {
+                    "paragraph": [
+                        2,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        0,
+                        3,
+                        0
+                    ]
+                },
+                "hard": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "start": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "ambiguities": {
+                    "paragraphs": [
+                        2,
+                        6,
+                        8,
+                        10,
+                        18,
+                        26,
+                        30
+                    ],
+                    "sentences": [
+                        1,
+                        4,
+                        2,
+                        2,
+                        1,
+                        0,
+                        1
+                    ],
+                    "word": [
+                        "drawing",
+                        "thought",
+                        "thinking",
+                        "thanks",
+                        "added",
+                        "beginning",
+                        "talking"
+                    ]
+                },
+                "my": {
+                    "paragraph": [
+                        2,
+                        4,
+                        4,
+                        6,
+                        6,
+                        30
+                    ],
+                    "sentence": [
+                        1,
+                        0,
+                        7,
+                        2,
+                        3,
+                        2
+                    ]
+                },
+                "age": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "after": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "long": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "time": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "again": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "will": {
+                    "paragraph": [
+                        4,
+                        4,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        0,
+                        1,
+                        7,
+                        0
+                    ]
+                },
+                "try": {
+                    "paragraph": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "sentence": [
+                        0,
+                        2,
+                        7
+                    ]
+                },
+                "course": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "make": {
+                    "paragraph": [
+                        4,
+                        4,
+                        6,
+                        24
+                    ],
+                    "sentence": [
+                        0,
+                        3,
+                        0,
+                        0
+                    ]
+                },
+                "picture": {
+                    "paragraph": [
+                        4,
+                        4
+                    ],
+                    "sentence": [
+                        0,
+                        2
+                    ]
+                },
+                "as": {
+                    "paragraph": [
+                        4,
+                        4,
+                        22,
+                        22,
+                        30
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        2,
+                        2,
+                        1
+                    ]
+                },
+                "life": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "possible": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "quite": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "sure": {
+                    "paragraph": [
+                        4,
+                        4
+                    ],
+                    "sentence": [
+                        1,
+                        6
+                    ]
+                },
+                "what": {
+                    "paragraph": [
+                        4,
+                        4
+                    ],
+                    "sentence": [
+                        1,
+                        2
+                    ]
+                },
+                "result": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "one": {
+                    "paragraph": [
+                        4,
+                        22
+                    ],
+                    "sentence": [
+                        2,
+                        3
+                    ]
+                },
+                "alright": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "another": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "like": {
+                    "paragraph": [
+                        4,
+                        6,
+                        6
+                    ],
+                    "sentence": [
+                        2,
+                        4,
+                        6
+                    ]
+                },
+                "draw": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "mistake": {
+                    "paragraph": [
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        3,
+                        0
+                    ]
+                },
+                "on": {
+                    "paragraph": [
+                        4,
+                        10,
+                        24,
+                        30
+                    ],
+                    "sentence": [
+                        3,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "size": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "too": {
+                    "paragraph": [
+                        4,
+                        4,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        3,
+                        4,
+                        5,
+                        0
+                    ]
+                },
+                "tall": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        4
+                    ]
+                },
+                "he": {
+                    "paragraph": [
+                        4,
+                        6,
+                        22,
+                        26,
+                        30
+                    ],
+                    "sentence": [
+                        5,
+                        4,
+                        3,
+                        0,
+                        0
+                    ]
+                },
+                "short": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "also": {
+                    "paragraph": [
+                        4,
+                        20
+                    ],
+                    "sentence": [
+                        6,
+                        0
+                    ]
+                },
+                "about": {
+                    "paragraph": [
+                        4,
+                        8,
+                        8,
+                        8,
+                        8,
+                        10,
+                        10,
+                        10,
+                        30
+                    ],
+                    "sentence": [
+                        6,
+                        0,
+                        1,
+                        1,
+                        2,
+                        0,
+                        2,
+                        2,
+                        1
+                    ]
+                },
+                "color": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        6
+                    ]
+                },
+                "his": {
+                    "paragraph": [
+                        4,
+                        8,
+                        8,
+                        8,
+                        22
+                    ],
+                    "sentence": [
+                        6,
+                        1,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                "clothes": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        6
+                    ]
+                },
+                "best": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        7
+                    ]
+                },
+                "in": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "other": {
+                    "paragraph": [
+                        6,
+                        24
+                    ],
+                    "sentence": [
+                        0,
+                        0
+                    ]
+                },
+                "detail": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "you": {
+                    "paragraph": [
+                        6,
+                        30
+                    ],
+                    "sentence": [
+                        1,
+                        1
+                    ]
+                },
+                "forgive": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "me": {
+                    "paragraph": [
+                        6,
+                        6,
+                        10
+                    ],
+                    "sentence": [
+                        1,
+                        3,
+                        2
+                    ]
+                },
+                "fault": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "never": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "explain": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "anything": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "maybe": {
+                    "paragraph": [
+                        6,
+                        6,
+                        6
+                    ],
+                    "sentence": [
+                        4,
+                        6,
+                        7
+                    ]
+                },
+                "unfortunately": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "know": {
+                    "paragraph": [
+                        6,
+                        30
+                    ],
+                    "sentence": [
+                        5,
+                        1
+                    ]
+                },
+                "how": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "see": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "sheep": {
+                    "paragraph": [
+                        6,
+                        10,
+                        12,
+                        18,
+                        28
+                    ],
+                    "sentence": [
+                        5,
+                        2,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "through": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "wall": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "adult": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        6
+                    ]
+                },
+                "already": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        7
+                    ]
+                },
+                "old": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        7
+                    ]
+                },
+                "every": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "day": {
+                    "paragraph": [
+                        8,
+                        10
+                    ],
+                    "sentence": [
+                        0,
+                        0
+                    ]
+                },
+                "learn": {
+                    "paragraph": [
+                        8,
+                        8,
+                        10,
+                        10
+                    ],
+                    "sentence": [
+                        0,
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                "something": {
+                    "paragraph": [
+                        8,
+                        26,
+                        30
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "planet": {
+                    "paragraph": [
+                        8,
+                        22
+                    ],
+                    "sentence": [
+                        0,
+                        3
+                    ]
+                },
+                "departure": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "from": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "journey": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "information": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "come": {
+                    "paragraph": [
+                        8,
+                        30
+                    ],
+                    "sentence": [
+                        2,
+                        0
+                    ]
+                },
+                "very": {
+                    "paragraph": [
+                        8,
+                        26
+                    ],
+                    "sentence": [
+                        2,
+                        0
+                    ]
+                },
+                "slowly": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "usually": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "during": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "moment": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "past": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "third": {
+                    "paragraph": [
+                        10
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "problem": {
+                    "paragraph": [
+                        10,
+                        10,
+                        30
+                    ],
+                    "sentence": [
+                        0,
+                        2,
+                        2
+                    ]
+                },
+                "with": {
+                    "paragraph": [
+                        10
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "big": {
+                    "paragraph": [
+                        10,
+                        22,
+                        26
+                    ],
+                    "sentence": [
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                "tree": {
+                    "paragraph": [
+                        10,
+                        22
+                    ],
+                    "sentence": [
+                        1,
+                        2
+                    ]
+                },
+                "question": {
+                    "paragraph": [
+                        10
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "ask": {
+                    "paragraph": [
+                        10
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "eat": {
+                    "paragraph": [
+                        12,
+                        18,
+                        20,
+                        22,
+                        28
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        0,
+                        3,
+                        1
+                    ]
+                },
+                "bush": {
+                    "paragraph": [
+                        12,
+                        18,
+                        22
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "yes": {
+                    "paragraph": [
+                        14
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "ah": {
+                    "paragraph": [
+                        16
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "good": {
+                    "paragraph": [
+                        16
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "understand": {
+                    "paragraph": [
+                        18
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "important": {
+                    "paragraph": [
+                        18,
+                        28
+                    ],
+                    "sentence": [
+                        0,
+                        1
+                    ]
+                },
+                "they": {
+                    "paragraph": [
+                        20,
+                        22,
+                        24,
+                        26,
+                        26
+                    ],
+                    "sentence": [
+                        0,
+                        2,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "tell": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "right": {
+                    "paragraph": [
+                        22,
+                        28
+                    ],
+                    "sentence": [
+                        1,
+                        0
+                    ]
+                },
+                "opposite": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "large": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "church": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "even": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "if": {
+                    "paragraph": [
+                        22,
+                        30
+                    ],
+                    "sentence": [
+                        3,
+                        1
+                    ]
+                },
+                "take": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "nine": {
+                    "paragraph": [
+                        22,
+                        24
+                    ],
+                    "sentence": [
+                        3,
+                        0
+                    ]
+                },
+                "elephant": {
+                    "paragraph": [
+                        22,
+                        22,
+                        24
+                    ],
+                    "sentence": [
+                        3,
+                        3,
+                        0
+                    ]
+                },
+                "back": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "those": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "single": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "idea": {
+                    "paragraph": [
+                        24
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "laugh": {
+                    "paragraph": [
+                        24
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "would": {
+                    "paragraph": [
+                        24
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "stand": {
+                    "paragraph": [
+                        24
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "each": {
+                    "paragraph": [
+                        24
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "say": {
+                    "paragraph": [
+                        26,
+                        28,
+                        30
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "clever": {
+                    "paragraph": [
+                        26
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "before": {
+                    "paragraph": [
+                        26
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "grow": {
+                    "paragraph": [
+                        26
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "re": {
+                    "paragraph": [
+                        26
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "small": {
+                    "paragraph": [
+                        26
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "your": {
+                    "paragraph": [
+                        28
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "oh": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "we": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "clear": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "simple": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "then": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "use": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "intelligence": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "solve": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "without": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "any": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "assistance": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                }
+            },
+            "nested": [
+                [
+                    [
+                        "This",
+                        " ",
+                        "all",
+                        " ",
+                        "happened",
+                        " ",
+                        "six",
+                        " ",
+                        "years",
+                        " ",
+                        "ago",
+                        "."
+                    ],
+                    [
+                        "When",
+                        " ",
+                        "I",
+                        " ",
+                        "look",
+                        " ",
+                        "at",
+                        " ",
+                        "these",
+                        " ",
+                        "memories",
+                        ",",
+                        " ",
+                        "I",
+                        " ",
+                        "feel",
+                        " ",
+                        "sad",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "I",
+                        " ",
+                        "describe",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "here",
+                        ",",
+                        " ",
+                        "because",
+                        " ",
+                        "I",
+                        " ",
+                        "don",
+                        "’",
+                        "t",
+                        " ",
+                        "want",
+                        " ",
+                        "to",
+                        " ",
+                        "forget",
+                        " ",
+                        "him",
+                        "."
+                    ],
+                    [
+                        "It",
+                        "’",
+                        "s",
+                        " ",
+                        "sad",
+                        " ",
+                        "to",
+                        " ",
+                        "forget",
+                        " ",
+                        "a",
+                        " ",
+                        "friend",
+                        "."
+                    ],
+                    [
+                        "Not",
+                        " ",
+                        "everybody",
+                        " ",
+                        "had",
+                        " ",
+                        "a",
+                        " ",
+                        "friend",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "So",
+                        " ",
+                        "that",
+                        "’",
+                        "s",
+                        " ",
+                        "why",
+                        " ",
+                        "I",
+                        " ",
+                        "bought",
+                        " ",
+                        "a",
+                        " ",
+                        "box",
+                        " ",
+                        "of",
+                        " ",
+                        "paints",
+                        " ",
+                        "and",
+                        " ",
+                        "some",
+                        " ",
+                        "pencils",
+                        "."
+                    ],
+                    [
+                        "It",
+                        "’",
+                        "s",
+                        " ",
+                        "hard",
+                        " ",
+                        "to",
+                        " ",
+                        "start",
+                        " ",
+                        "drawing",
+                        ",",
+                        " ",
+                        "at",
+                        " ",
+                        "my",
+                        " ",
+                        "age",
+                        ",",
+                        " ",
+                        "after",
+                        " ",
+                        "so",
+                        " ",
+                        "long",
+                        " ",
+                        "time",
+                        " ",
+                        "again",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "I",
+                        " ",
+                        "will",
+                        " ",
+                        "try",
+                        ",",
+                        " ",
+                        "of",
+                        " ",
+                        "course",
+                        ",",
+                        " ",
+                        "to",
+                        " ",
+                        "make",
+                        " ",
+                        "my",
+                        " ",
+                        "pictures",
+                        " ",
+                        "as",
+                        " ",
+                        "true",
+                        " ",
+                        "to",
+                        " ",
+                        "life",
+                        " ",
+                        "as",
+                        " ",
+                        "possible",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "I",
+                        "’",
+                        "m",
+                        " ",
+                        "not",
+                        " ",
+                        "quite",
+                        " ",
+                        "sure",
+                        " ",
+                        "what",
+                        " ",
+                        "the",
+                        " ",
+                        "result",
+                        " ",
+                        "will",
+                        " ",
+                        "be",
+                        "."
+                    ],
+                    [
+                        "One",
+                        " ",
+                        "picture",
+                        " ",
+                        "is",
+                        " ",
+                        "alright",
+                        ",",
+                        " ",
+                        "and",
+                        " ",
+                        "another",
+                        " ",
+                        "doesn",
+                        "’",
+                        "t",
+                        " ",
+                        "look",
+                        " ",
+                        "like",
+                        " ",
+                        "what",
+                        " ",
+                        "I",
+                        " ",
+                        "tried",
+                        " ",
+                        "to",
+                        " ",
+                        "draw",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "make",
+                        " ",
+                        "some",
+                        " ",
+                        "mistakes",
+                        " ",
+                        "on",
+                        " ",
+                        "the",
+                        " ",
+                        "size",
+                        " ",
+                        "too",
+                        "."
+                    ],
+                    [
+                        "Here",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "is",
+                        " ",
+                        "too",
+                        " ",
+                        "tall",
+                        "."
+                    ],
+                    [
+                        "Here",
+                        " ",
+                        "he",
+                        " ",
+                        "is",
+                        " ",
+                        "too",
+                        " ",
+                        "short",
+                        "."
+                    ],
+                    [
+                        "I",
+                        "’",
+                        "m",
+                        " ",
+                        "not",
+                        " ",
+                        "also",
+                        " ",
+                        "sure",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "colour",
+                        " ",
+                        "of",
+                        " ",
+                        "his",
+                        " ",
+                        "clothes",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "I",
+                        " ",
+                        "will",
+                        " ",
+                        "try",
+                        " ",
+                        "to",
+                        " ",
+                        "do",
+                        " ",
+                        "my",
+                        " ",
+                        "best",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "In",
+                        " ",
+                        "some",
+                        " ",
+                        "other",
+                        " ",
+                        "details",
+                        " ",
+                        "I",
+                        " ",
+                        "will",
+                        " ",
+                        "make",
+                        " ",
+                        "mistakes",
+                        " ",
+                        "too",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "here",
+                        " ",
+                        "you",
+                        " ",
+                        "have",
+                        " ",
+                        "to",
+                        " ",
+                        "forgive",
+                        " ",
+                        "me",
+                        "."
+                    ],
+                    [
+                        "It",
+                        "’",
+                        "s",
+                        " ",
+                        "not",
+                        " ",
+                        "my",
+                        " ",
+                        "fault",
+                        "."
+                    ],
+                    [
+                        "My",
+                        " ",
+                        "friend",
+                        " ",
+                        "never",
+                        " ",
+                        "explained",
+                        " ",
+                        "anything",
+                        " ",
+                        "to",
+                        " ",
+                        "me",
+                        "."
+                    ],
+                    [
+                        "Maybe",
+                        " ",
+                        "he",
+                        " ",
+                        "thought",
+                        " ",
+                        "that",
+                        " ",
+                        "I",
+                        " ",
+                        "was",
+                        " ",
+                        "like",
+                        " ",
+                        "him",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "I",
+                        ",",
+                        " ",
+                        "unfortunately",
+                        ",",
+                        " ",
+                        "don",
+                        "’",
+                        "t",
+                        " ",
+                        "know",
+                        " ",
+                        "how",
+                        " ",
+                        "to",
+                        " ",
+                        "see",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        " ",
+                        "through",
+                        " ",
+                        "the",
+                        " ",
+                        "walls",
+                        " ",
+                        "of",
+                        " ",
+                        "a",
+                        " ",
+                        "box",
+                        "."
+                    ],
+                    [
+                        "Maybe",
+                        " ",
+                        "it",
+                        "’",
+                        "s",
+                        " ",
+                        "because",
+                        " ",
+                        "I",
+                        "’",
+                        "m",
+                        " ",
+                        "a",
+                        " ",
+                        "little",
+                        " ",
+                        "like",
+                        " ",
+                        "the",
+                        " ",
+                        "adults",
+                        "."
+                    ],
+                    [
+                        "Maybe",
+                        ",",
+                        " ",
+                        "I",
+                        "’",
+                        "m",
+                        " ",
+                        "already",
+                        " ",
+                        "old",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "Every",
+                        " ",
+                        "day",
+                        " ",
+                        "I",
+                        " ",
+                        "learnt",
+                        " ",
+                        "something",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        "’",
+                        "s",
+                        " ",
+                        "planet",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "learnt",
+                        " ",
+                        "about",
+                        " ",
+                        "his",
+                        " ",
+                        "departure",
+                        " ",
+                        "from",
+                        " ",
+                        "it",
+                        ",",
+                        " ",
+                        "about",
+                        " ",
+                        "his",
+                        " ",
+                        "journey",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "information",
+                        " ",
+                        "came",
+                        " ",
+                        "very",
+                        " ",
+                        "slowly",
+                        ",",
+                        " ",
+                        "usually",
+                        " ",
+                        "during",
+                        " ",
+                        "moments",
+                        " ",
+                        "when",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "was",
+                        " ",
+                        "thinking",
+                        " ",
+                        "about",
+                        " ",
+                        "his",
+                        " ",
+                        "past",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "On",
+                        " ",
+                        "the",
+                        " ",
+                        "third",
+                        " ",
+                        "day",
+                        ",",
+                        " ",
+                        "I",
+                        " ",
+                        "learnt",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "problem",
+                        " ",
+                        "with",
+                        " ",
+                        "the",
+                        " ",
+                        "baobabs",
+                        "."
+                    ],
+                    [
+                        "Baobabs",
+                        " ",
+                        "are",
+                        " ",
+                        "big",
+                        " ",
+                        "trees",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "learnt",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "problem",
+                        " ",
+                        "thanks",
+                        " ",
+                        "to",
+                        " ",
+                        "a",
+                        " ",
+                        "question",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        " ",
+                        "that",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "asked",
+                        " ",
+                        "me",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "Is",
+                        " ",
+                        "it",
+                        " ",
+                        "true",
+                        " ",
+                        "that",
+                        " ",
+                        "sheep",
+                        " ",
+                        "eat",
+                        " ",
+                        "little",
+                        " ",
+                        "bushes",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "Yes",
+                        "."
+                    ],
+                    [
+                        "That",
+                        "’",
+                        "s",
+                        " ",
+                        "true",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "Ah",
+                        "!"
+                    ],
+                    [
+                        "That",
+                        "’",
+                        "s",
+                        " ",
+                        "good",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "I",
+                        " ",
+                        "didn",
+                        "’",
+                        "t",
+                        " ",
+                        "understand",
+                        " ",
+                        "why",
+                        " ",
+                        "it",
+                        " ",
+                        "was",
+                        " ",
+                        "so",
+                        " ",
+                        "important",
+                        " ",
+                        "that",
+                        " ",
+                        "sheep",
+                        " ",
+                        "ate",
+                        " ",
+                        "little",
+                        " ",
+                        "bushes",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "added",
+                        ","
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "So",
+                        " ",
+                        "they",
+                        " ",
+                        "also",
+                        " ",
+                        "eat",
+                        " ",
+                        "baobabs",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "I",
+                        " ",
+                        "told",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "that",
+                        " ",
+                        "baobabs",
+                        " ",
+                        "aren",
+                        "’",
+                        "t",
+                        " ",
+                        "little",
+                        " ",
+                        "bushes",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "baobabs",
+                        " ",
+                        "are",
+                        " ",
+                        "right",
+                        " ",
+                        "the",
+                        " ",
+                        "opposite",
+                        "."
+                    ],
+                    [
+                        "They",
+                        " ",
+                        "are",
+                        " ",
+                        "trees",
+                        " ",
+                        "as",
+                        " ",
+                        "large",
+                        " ",
+                        "as",
+                        " ",
+                        "churches",
+                        "."
+                    ],
+                    [
+                        "And",
+                        " ",
+                        "that",
+                        " ",
+                        "even",
+                        " ",
+                        "if",
+                        " ",
+                        "he",
+                        " ",
+                        "took",
+                        " ",
+                        "nine",
+                        " ",
+                        "big",
+                        " ",
+                        "elephants",
+                        " ",
+                        "back",
+                        " ",
+                        "to",
+                        " ",
+                        "his",
+                        " ",
+                        "planet",
+                        ",",
+                        " ",
+                        "those",
+                        " ",
+                        "elephants",
+                        " ",
+                        "couldn",
+                        "’",
+                        "t",
+                        " ",
+                        "eat",
+                        " ",
+                        "one",
+                        " ",
+                        "single",
+                        " ",
+                        "baobab",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "The",
+                        " ",
+                        "idea",
+                        " ",
+                        "of",
+                        " ",
+                        "​",
+                        "​",
+                        "nine",
+                        " ",
+                        "elephants",
+                        " ",
+                        "made",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "laugh",
+                        ",",
+                        " ",
+                        "“",
+                        "They",
+                        " ",
+                        "would",
+                        " ",
+                        "have",
+                        " ",
+                        "to",
+                        " ",
+                        "stand",
+                        " ",
+                        "on",
+                        " ",
+                        "each",
+                        " ",
+                        "other",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "But",
+                        " ",
+                        "he",
+                        " ",
+                        "said",
+                        " ",
+                        "something",
+                        " ",
+                        "clever",
+                        ",",
+                        " ",
+                        "“",
+                        "The",
+                        " ",
+                        "baobabs",
+                        ",",
+                        " ",
+                        "before",
+                        " ",
+                        "they",
+                        " ",
+                        "grow",
+                        " ",
+                        "so",
+                        " ",
+                        "big",
+                        ",",
+                        " ",
+                        "they",
+                        "’",
+                        "re",
+                        " ",
+                        "very",
+                        " ",
+                        "small",
+                        " ",
+                        "at",
+                        " ",
+                        "the",
+                        " ",
+                        "beginning",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "That",
+                        "’",
+                        "s",
+                        " ",
+                        "right",
+                        ",",
+                        "”",
+                        " ",
+                        "I",
+                        " ",
+                        "said",
+                        "."
+                    ],
+                    [
+                        "“",
+                        "But",
+                        " ",
+                        "why",
+                        " ",
+                        "is",
+                        " ",
+                        "it",
+                        " ",
+                        "important",
+                        " ",
+                        "that",
+                        " ",
+                        "your",
+                        " ",
+                        "sheep",
+                        " ",
+                        "eats",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "baobabs",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "He",
+                        " ",
+                        "said",
+                        ",",
+                        " ",
+                        "“",
+                        "Oh",
+                        ",",
+                        " ",
+                        "come",
+                        " ",
+                        "on",
+                        "!"
+                    ],
+                    [
+                        "You",
+                        " ",
+                        "know",
+                        ",",
+                        "”",
+                        " ",
+                        "as",
+                        " ",
+                        "if",
+                        " ",
+                        "we",
+                        " ",
+                        "were",
+                        " ",
+                        "talking",
+                        " ",
+                        "about",
+                        " ",
+                        "something",
+                        " ",
+                        "clear",
+                        " ",
+                        "and",
+                        " ",
+                        "simple",
+                        "."
+                    ],
+                    [
+                        "And",
+                        " ",
+                        "then",
+                        " ",
+                        "I",
+                        " ",
+                        "had",
+                        " ",
+                        "to",
+                        " ",
+                        "use",
+                        " ",
+                        "my",
+                        " ",
+                        "intelligence",
+                        " ",
+                        "to",
+                        " ",
+                        "solve",
+                        " ",
+                        "the",
+                        " ",
+                        "problem",
+                        ",",
+                        " ",
+                        "without",
+                        " ",
+                        "any",
+                        " ",
+                        "assistance",
+                        "."
+                    ]
+                ]
+            ]
+        },
+        {
+            "title": "elephants",
+            "text": "This all happened six years ago. When I look at these memories, I feel sad. But I describe the little prince here, because I don’t want to forget him. It’s sad to forget a friend. Not everybody had a friend.\n\nSo that’s why I bought a box of paints and some pencils. It’s hard to start drawing, at my age, after so long time again.\n\nI will try, of course, to make my pictures as true to life as possible. But I’m not quite sure what the result will be. One picture is alright, and another doesn’t look like what I tried to draw. I make some mistakes on the size too. Here the little prince is too tall. Here he is too short. I’m not also sure about the colour of his clothes. But I will try to do my best.\n\nIn some other details I will make mistakes too. But here you have to forgive me. It’s not my fault. My friend never explained anything to me. Maybe he thought that I was like him. But I, unfortunately, don’t know how to see the sheep through the walls of a box. Maybe it’s because I’m a little like the adults. Maybe, I’m already old.\n\nEvery day I learnt something about the little prince’s planet. I learnt about his departure from it, about his journey. The information came very slowly, usually during moments when the little prince was thinking about his past.\n\nOn the third day, I learnt about the problem with the baobabs. Baobabs are big trees. I learnt about the problem thanks to a question about the sheep that the little prince asked me.\n\n“Is it true that sheep eat little bushes?”\n\n“Yes. That’s true.”\n\n“Ah! That’s good.”\n\nI didn’t understand why it was so important that sheep ate little bushes. But the little prince added,\n\n“So they also eat baobabs?”\n\nI told the little prince that baobabs aren’t little bushes. The baobabs are right the opposite. They are trees as large as churches. And that even if he took nine big elephants back to his planet, those elephants couldn’t eat one single baobab.\n\nThe idea of ​​nine elephants made the little prince laugh, “They would have to stand on each other.”\n\nBut he said something clever, “The baobabs, before they grow so big, they’re very small at the beginning.”\n\n“That’s right,” I said. “But why is it important that your sheep eats the little baobabs?”\n\nHe said, “Oh, come on! You know,” as if we were talking about something clear and simple. And then I had to use my intelligence to solve the problem, without any assistance.",
+            "words_map": {
+                "this": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "all": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "happen": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "six": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "year": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "ago": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "when": {
+                    "paragraph": [
+                        0,
+                        8
+                    ],
+                    "sentence": [
+                        1,
+                        2
+                    ]
+                },
+                "I": {
+                    "paragraph": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        2,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        6,
+                        6,
+                        6,
+                        6,
+                        6,
+                        8,
+                        8,
+                        10,
+                        10,
+                        18,
+                        22,
+                        28,
+                        30
+                    ],
+                    "sentence": [
+                        1,
+                        1,
+                        2,
+                        2,
+                        0,
+                        0,
+                        1,
+                        2,
+                        3,
+                        6,
+                        7,
+                        0,
+                        4,
+                        5,
+                        6,
+                        7,
+                        0,
+                        1,
+                        0,
+                        2,
+                        0,
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                "look": {
+                    "paragraph": [
+                        0,
+                        4
+                    ],
+                    "sentence": [
+                        1,
+                        2
+                    ]
+                },
+                "at": {
+                    "paragraph": [
+                        0,
+                        2,
+                        26
+                    ],
+                    "sentence": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                "these": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "memory": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "feel": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "sad": {
+                    "paragraph": [
+                        0,
+                        0
+                    ],
+                    "sentence": [
+                        1,
+                        3
+                    ]
+                },
+                "but": {
+                    "paragraph": [
+                        0,
+                        4,
+                        4,
+                        6,
+                        6,
+                        18,
+                        26,
+                        28
+                    ],
+                    "sentence": [
+                        2,
+                        1,
+                        7,
+                        1,
+                        5,
+                        1,
+                        0,
+                        1
+                    ]
+                },
+                "describe": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "the": {
+                    "paragraph": [
+                        0,
+                        4,
+                        4,
+                        4,
+                        4,
+                        6,
+                        6,
+                        6,
+                        8,
+                        8,
+                        8,
+                        10,
+                        10,
+                        10,
+                        10,
+                        10,
+                        10,
+                        18,
+                        22,
+                        22,
+                        22,
+                        24,
+                        24,
+                        26,
+                        26,
+                        28,
+                        30
+                    ],
+                    "sentence": [
+                        2,
+                        1,
+                        3,
+                        4,
+                        6,
+                        5,
+                        5,
+                        6,
+                        0,
+                        2,
+                        2,
+                        0,
+                        0,
+                        0,
+                        2,
+                        2,
+                        2,
+                        1,
+                        0,
+                        1,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                "little": {
+                    "paragraph": [
+                        0,
+                        4,
+                        6,
+                        8,
+                        8,
+                        10,
+                        12,
+                        18,
+                        18,
+                        22,
+                        22,
+                        24,
+                        28
+                    ],
+                    "sentence": [
+                        2,
+                        4,
+                        6,
+                        0,
+                        2,
+                        2,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "prince": {
+                    "paragraph": [
+                        0,
+                        4,
+                        8,
+                        8,
+                        10,
+                        18,
+                        22,
+                        24
+                    ],
+                    "sentence": [
+                        2,
+                        4,
+                        0,
+                        2,
+                        2,
+                        1,
+                        0,
+                        0
+                    ]
+                },
+                "here": {
+                    "paragraph": [
+                        0,
+                        4,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        2,
+                        4,
+                        5,
+                        1
+                    ]
+                },
+                "because": {
+                    "paragraph": [
+                        0,
+                        6
+                    ],
+                    "sentence": [
+                        2,
+                        6
+                    ]
+                },
+                "do": {
+                    "paragraph": [
+                        0,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        2,
+                        7,
+                        5
+                    ]
+                },
+                "want": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "to": {
+                    "paragraph": [
+                        0,
+                        0,
+                        2,
+                        4,
+                        4,
+                        4,
+                        4,
+                        6,
+                        6,
+                        6,
+                        10,
+                        22,
+                        24,
+                        30,
+                        30
+                    ],
+                    "sentence": [
+                        2,
+                        3,
+                        1,
+                        0,
+                        0,
+                        2,
+                        7,
+                        1,
+                        3,
+                        5,
+                        2,
+                        3,
+                        0,
+                        2,
+                        2
+                    ]
+                },
+                "forget": {
+                    "paragraph": [
+                        0,
+                        0
+                    ],
+                    "sentence": [
+                        2,
+                        3
+                    ]
+                },
+                "him": {
+                    "paragraph": [
+                        0,
+                        6
+                    ],
+                    "sentence": [
+                        2,
+                        4
+                    ]
+                },
+                "it": {
+                    "paragraph": [
+                        0,
+                        2,
+                        6,
+                        6,
+                        8,
+                        12,
+                        18,
+                        28
+                    ],
+                    "sentence": [
+                        3,
+                        1,
+                        2,
+                        6,
+                        1,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "be": {
+                    "paragraph": [
+                        0,
+                        2,
+                        2,
+                        4,
+                        4,
+                        4,
+                        4,
+                        6,
+                        6,
+                        6,
+                        8,
+                        8,
+                        10,
+                        12,
+                        14,
+                        16,
+                        18,
+                        22,
+                        22,
+                        28,
+                        28,
+                        30
+                    ],
+                    "sentence": [
+                        3,
+                        0,
+                        1,
+                        1,
+                        2,
+                        4,
+                        5,
+                        2,
+                        4,
+                        6,
+                        0,
+                        2,
+                        1,
+                        0,
+                        1,
+                        1,
+                        0,
+                        1,
+                        2,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                "a": {
+                    "paragraph": [
+                        0,
+                        0,
+                        2,
+                        6,
+                        6,
+                        10
+                    ],
+                    "sentence": [
+                        3,
+                        4,
+                        0,
+                        5,
+                        6,
+                        2
+                    ]
+                },
+                "friend": {
+                    "paragraph": [
+                        0,
+                        0,
+                        6
+                    ],
+                    "sentence": [
+                        3,
+                        4,
+                        3
+                    ]
+                },
+                "not": {
+                    "paragraph": [
+                        0,
+                        4,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        4,
+                        1,
+                        6,
+                        2
+                    ]
+                },
+                "everybody": {
+                    "paragraph": [
+                        0
+                    ],
+                    "sentence": [
+                        4
+                    ]
+                },
+                "have": {
+                    "paragraph": [
+                        0,
+                        6,
+                        24,
+                        30
+                    ],
+                    "sentence": [
+                        4,
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                "so": {
+                    "paragraph": [
+                        2,
+                        2,
+                        18,
+                        20,
+                        26
+                    ],
+                    "sentence": [
+                        0,
+                        1,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "that": {
+                    "paragraph": [
+                        2,
+                        6,
+                        10,
+                        12,
+                        14,
+                        16,
+                        18,
+                        22,
+                        22,
+                        28,
+                        28
+                    ],
+                    "sentence": [
+                        0,
+                        4,
+                        2,
+                        0,
+                        1,
+                        1,
+                        0,
+                        0,
+                        3,
+                        0,
+                        1
+                    ]
+                },
+                "why": {
+                    "paragraph": [
+                        2,
+                        18,
+                        28
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "buy": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "box": {
+                    "paragraph": [
+                        2,
+                        6
+                    ],
+                    "sentence": [
+                        0,
+                        5
+                    ]
+                },
+                "of": {
+                    "paragraph": [
+                        2,
+                        4,
+                        4,
+                        6,
+                        24
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        6,
+                        5,
+                        0
+                    ]
+                },
+                "paint": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "and": {
+                    "paragraph": [
+                        2,
+                        4,
+                        22,
+                        30,
+                        30
+                    ],
+                    "sentence": [
+                        0,
+                        2,
+                        3,
+                        1,
+                        2
+                    ]
+                },
+                "some": {
+                    "paragraph": [
+                        2,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        0,
+                        3,
+                        0
+                    ]
+                },
+                "hard": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "start": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "ambiguities": {
+                    "paragraphs": [
+                        2,
+                        6,
+                        8,
+                        10,
+                        18,
+                        26,
+                        30
+                    ],
+                    "sentences": [
+                        1,
+                        4,
+                        2,
+                        2,
+                        1,
+                        0,
+                        1
+                    ],
+                    "word": [
+                        "drawing",
+                        "thought",
+                        "thinking",
+                        "thanks",
+                        "added",
+                        "beginning",
+                        "talking"
+                    ]
+                },
+                "my": {
+                    "paragraph": [
+                        2,
+                        4,
+                        4,
+                        6,
+                        6,
+                        30
+                    ],
+                    "sentence": [
+                        1,
+                        0,
+                        7,
+                        2,
+                        3,
+                        2
+                    ]
+                },
+                "age": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "after": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "long": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "time": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "again": {
+                    "paragraph": [
+                        2
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "will": {
+                    "paragraph": [
+                        4,
+                        4,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        0,
+                        1,
+                        7,
+                        0
+                    ]
+                },
+                "try": {
+                    "paragraph": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "sentence": [
+                        0,
+                        2,
+                        7
+                    ]
+                },
+                "course": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "make": {
+                    "paragraph": [
+                        4,
+                        4,
+                        6,
+                        24
+                    ],
+                    "sentence": [
+                        0,
+                        3,
+                        0,
+                        0
+                    ]
+                },
+                "picture": {
+                    "paragraph": [
+                        4,
+                        4
+                    ],
+                    "sentence": [
+                        0,
+                        2
+                    ]
+                },
+                "as": {
+                    "paragraph": [
+                        4,
+                        4,
+                        22,
+                        22,
+                        30
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        2,
+                        2,
+                        1
+                    ]
+                },
+                "life": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "possible": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "quite": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "sure": {
+                    "paragraph": [
+                        4,
+                        4
+                    ],
+                    "sentence": [
+                        1,
+                        6
+                    ]
+                },
+                "what": {
+                    "paragraph": [
+                        4,
+                        4
+                    ],
+                    "sentence": [
+                        1,
+                        2
+                    ]
+                },
+                "result": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "one": {
+                    "paragraph": [
+                        4,
+                        22
+                    ],
+                    "sentence": [
+                        2,
+                        3
+                    ]
+                },
+                "alright": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "another": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "like": {
+                    "paragraph": [
+                        4,
+                        6,
+                        6
+                    ],
+                    "sentence": [
+                        2,
+                        4,
+                        6
+                    ]
+                },
+                "draw": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "mistake": {
+                    "paragraph": [
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        3,
+                        0
+                    ]
+                },
+                "on": {
+                    "paragraph": [
+                        4,
+                        10,
+                        24,
+                        30
+                    ],
+                    "sentence": [
+                        3,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "size": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "too": {
+                    "paragraph": [
+                        4,
+                        4,
+                        4,
+                        6
+                    ],
+                    "sentence": [
+                        3,
+                        4,
+                        5,
+                        0
+                    ]
+                },
+                "tall": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        4
+                    ]
+                },
+                "he": {
+                    "paragraph": [
+                        4,
+                        6,
+                        22,
+                        26,
+                        30
+                    ],
+                    "sentence": [
+                        5,
+                        4,
+                        3,
+                        0,
+                        0
+                    ]
+                },
+                "short": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "also": {
+                    "paragraph": [
+                        4,
+                        20
+                    ],
+                    "sentence": [
+                        6,
+                        0
+                    ]
+                },
+                "about": {
+                    "paragraph": [
+                        4,
+                        8,
+                        8,
+                        8,
+                        8,
+                        10,
+                        10,
+                        10,
+                        30
+                    ],
+                    "sentence": [
+                        6,
+                        0,
+                        1,
+                        1,
+                        2,
+                        0,
+                        2,
+                        2,
+                        1
+                    ]
+                },
+                "color": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        6
+                    ]
+                },
+                "his": {
+                    "paragraph": [
+                        4,
+                        8,
+                        8,
+                        8,
+                        22
+                    ],
+                    "sentence": [
+                        6,
+                        1,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                "clothes": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        6
+                    ]
+                },
+                "best": {
+                    "paragraph": [
+                        4
+                    ],
+                    "sentence": [
+                        7
+                    ]
+                },
+                "in": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "other": {
+                    "paragraph": [
+                        6,
+                        24
+                    ],
+                    "sentence": [
+                        0,
+                        0
+                    ]
+                },
+                "detail": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "you": {
+                    "paragraph": [
+                        6,
+                        30
+                    ],
+                    "sentence": [
+                        1,
+                        1
+                    ]
+                },
+                "forgive": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "me": {
+                    "paragraph": [
+                        6,
+                        6,
+                        10
+                    ],
+                    "sentence": [
+                        1,
+                        3,
+                        2
+                    ]
+                },
+                "fault": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "never": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "explain": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "anything": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "maybe": {
+                    "paragraph": [
+                        6,
+                        6,
+                        6
+                    ],
+                    "sentence": [
+                        4,
+                        6,
+                        7
+                    ]
+                },
+                "unfortunately": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "know": {
+                    "paragraph": [
+                        6,
+                        30
+                    ],
+                    "sentence": [
+                        5,
+                        1
+                    ]
+                },
+                "how": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "see": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "sheep": {
+                    "paragraph": [
+                        6,
+                        10,
+                        12,
+                        18,
+                        28
+                    ],
+                    "sentence": [
+                        5,
+                        2,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "through": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "wall": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        5
+                    ]
+                },
+                "adult": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        6
+                    ]
+                },
+                "already": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        7
+                    ]
+                },
+                "old": {
+                    "paragraph": [
+                        6
+                    ],
+                    "sentence": [
+                        7
+                    ]
+                },
+                "every": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "day": {
+                    "paragraph": [
+                        8,
+                        10
+                    ],
+                    "sentence": [
+                        0,
+                        0
+                    ]
+                },
+                "learn": {
+                    "paragraph": [
+                        8,
+                        8,
+                        10,
+                        10
+                    ],
+                    "sentence": [
+                        0,
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                "something": {
+                    "paragraph": [
+                        8,
+                        26,
+                        30
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                "planet": {
+                    "paragraph": [
+                        8,
+                        22
+                    ],
+                    "sentence": [
+                        0,
+                        3
+                    ]
+                },
+                "departure": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "from": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "journey": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "information": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "come": {
+                    "paragraph": [
+                        8,
+                        30
+                    ],
+                    "sentence": [
+                        2,
+                        0
+                    ]
+                },
+                "very": {
+                    "paragraph": [
+                        8,
+                        26
+                    ],
+                    "sentence": [
+                        2,
+                        0
+                    ]
+                },
+                "slowly": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "usually": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "during": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "moment": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "past": {
+                    "paragraph": [
+                        8
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "third": {
+                    "paragraph": [
+                        10
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "problem": {
+                    "paragraph": [
+                        10,
+                        10,
+                        30
+                    ],
+                    "sentence": [
+                        0,
+                        2,
+                        2
+                    ]
+                },
+                "with": {
+                    "paragraph": [
+                        10
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "big": {
+                    "paragraph": [
+                        10,
+                        22,
+                        26
+                    ],
+                    "sentence": [
+                        1,
+                        3,
+                        0
+                    ]
+                },
+                "tree": {
+                    "paragraph": [
+                        10,
+                        22
+                    ],
+                    "sentence": [
+                        1,
+                        2
+                    ]
+                },
+                "question": {
+                    "paragraph": [
+                        10
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "ask": {
+                    "paragraph": [
+                        10
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "eat": {
+                    "paragraph": [
+                        12,
+                        18,
+                        20,
+                        22,
+                        28
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        0,
+                        3,
+                        1
+                    ]
+                },
+                "bush": {
+                    "paragraph": [
+                        12,
+                        18,
+                        22
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "yes": {
+                    "paragraph": [
+                        14
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "ah": {
+                    "paragraph": [
+                        16
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "good": {
+                    "paragraph": [
+                        16
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "understand": {
+                    "paragraph": [
+                        18
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "important": {
+                    "paragraph": [
+                        18,
+                        28
+                    ],
+                    "sentence": [
+                        0,
+                        1
+                    ]
+                },
+                "they": {
+                    "paragraph": [
+                        20,
+                        22,
+                        24,
+                        26,
+                        26
+                    ],
+                    "sentence": [
+                        0,
+                        2,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "tell": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "right": {
+                    "paragraph": [
+                        22,
+                        28
+                    ],
+                    "sentence": [
+                        1,
+                        0
+                    ]
+                },
+                "opposite": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "large": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "church": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "even": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "if": {
+                    "paragraph": [
+                        22,
+                        30
+                    ],
+                    "sentence": [
+                        3,
+                        1
+                    ]
+                },
+                "take": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "nine": {
+                    "paragraph": [
+                        22,
+                        24
+                    ],
+                    "sentence": [
+                        3,
+                        0
+                    ]
+                },
+                "elephant": {
+                    "paragraph": [
+                        22,
+                        22,
+                        24
+                    ],
+                    "sentence": [
+                        3,
+                        3,
+                        0
+                    ]
+                },
+                "back": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "those": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "single": {
+                    "paragraph": [
+                        22
+                    ],
+                    "sentence": [
+                        3
+                    ]
+                },
+                "idea": {
+                    "paragraph": [
+                        24
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "laugh": {
+                    "paragraph": [
+                        24
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "would": {
+                    "paragraph": [
+                        24
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "stand": {
+                    "paragraph": [
+                        24
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "each": {
+                    "paragraph": [
+                        24
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "say": {
+                    "paragraph": [
+                        26,
+                        28,
+                        30
+                    ],
+                    "sentence": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "clever": {
+                    "paragraph": [
+                        26
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "before": {
+                    "paragraph": [
+                        26
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "grow": {
+                    "paragraph": [
+                        26
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "re": {
+                    "paragraph": [
+                        26
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "small": {
+                    "paragraph": [
+                        26
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "your": {
+                    "paragraph": [
+                        28
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "oh": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        0
+                    ]
+                },
+                "we": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "clear": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "simple": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        1
+                    ]
+                },
+                "then": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "use": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "intelligence": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "solve": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "without": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "any": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                },
+                "assistance": {
+                    "paragraph": [
+                        30
+                    ],
+                    "sentence": [
+                        2
+                    ]
+                }
+            },
+            "nested": [
+                [
+                    [
+                        "This",
+                        " ",
+                        "all",
+                        " ",
+                        "happened",
+                        " ",
+                        "six",
+                        " ",
+                        "years",
+                        " ",
+                        "ago",
+                        "."
+                    ],
+                    [
+                        "When",
+                        " ",
+                        "I",
+                        " ",
+                        "look",
+                        " ",
+                        "at",
+                        " ",
+                        "these",
+                        " ",
+                        "memories",
+                        ",",
+                        " ",
+                        "I",
+                        " ",
+                        "feel",
+                        " ",
+                        "sad",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "I",
+                        " ",
+                        "describe",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "here",
+                        ",",
+                        " ",
+                        "because",
+                        " ",
+                        "I",
+                        " ",
+                        "don",
+                        "’",
+                        "t",
+                        " ",
+                        "want",
+                        " ",
+                        "to",
+                        " ",
+                        "forget",
+                        " ",
+                        "him",
+                        "."
+                    ],
+                    [
+                        "It",
+                        "’",
+                        "s",
+                        " ",
+                        "sad",
+                        " ",
+                        "to",
+                        " ",
+                        "forget",
+                        " ",
+                        "a",
+                        " ",
+                        "friend",
+                        "."
+                    ],
+                    [
+                        "Not",
+                        " ",
+                        "everybody",
+                        " ",
+                        "had",
+                        " ",
+                        "a",
+                        " ",
+                        "friend",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "So",
+                        " ",
+                        "that",
+                        "’",
+                        "s",
+                        " ",
+                        "why",
+                        " ",
+                        "I",
+                        " ",
+                        "bought",
+                        " ",
+                        "a",
+                        " ",
+                        "box",
+                        " ",
+                        "of",
+                        " ",
+                        "paints",
+                        " ",
+                        "and",
+                        " ",
+                        "some",
+                        " ",
+                        "pencils",
+                        "."
+                    ],
+                    [
+                        "It",
+                        "’",
+                        "s",
+                        " ",
+                        "hard",
+                        " ",
+                        "to",
+                        " ",
+                        "start",
+                        " ",
+                        "drawing",
+                        ",",
+                        " ",
+                        "at",
+                        " ",
+                        "my",
+                        " ",
+                        "age",
+                        ",",
+                        " ",
+                        "after",
+                        " ",
+                        "so",
+                        " ",
+                        "long",
+                        " ",
+                        "time",
+                        " ",
+                        "again",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "I",
+                        " ",
+                        "will",
+                        " ",
+                        "try",
+                        ",",
+                        " ",
+                        "of",
+                        " ",
+                        "course",
+                        ",",
+                        " ",
+                        "to",
+                        " ",
+                        "make",
+                        " ",
+                        "my",
+                        " ",
+                        "pictures",
+                        " ",
+                        "as",
+                        " ",
+                        "true",
+                        " ",
+                        "to",
+                        " ",
+                        "life",
+                        " ",
+                        "as",
+                        " ",
+                        "possible",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "I",
+                        "’",
+                        "m",
+                        " ",
+                        "not",
+                        " ",
+                        "quite",
+                        " ",
+                        "sure",
+                        " ",
+                        "what",
+                        " ",
+                        "the",
+                        " ",
+                        "result",
+                        " ",
+                        "will",
+                        " ",
+                        "be",
+                        "."
+                    ],
+                    [
+                        "One",
+                        " ",
+                        "picture",
+                        " ",
+                        "is",
+                        " ",
+                        "alright",
+                        ",",
+                        " ",
+                        "and",
+                        " ",
+                        "another",
+                        " ",
+                        "doesn",
+                        "’",
+                        "t",
+                        " ",
+                        "look",
+                        " ",
+                        "like",
+                        " ",
+                        "what",
+                        " ",
+                        "I",
+                        " ",
+                        "tried",
+                        " ",
+                        "to",
+                        " ",
+                        "draw",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "make",
+                        " ",
+                        "some",
+                        " ",
+                        "mistakes",
+                        " ",
+                        "on",
+                        " ",
+                        "the",
+                        " ",
+                        "size",
+                        " ",
+                        "too",
+                        "."
+                    ],
+                    [
+                        "Here",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "is",
+                        " ",
+                        "too",
+                        " ",
+                        "tall",
+                        "."
+                    ],
+                    [
+                        "Here",
+                        " ",
+                        "he",
+                        " ",
+                        "is",
+                        " ",
+                        "too",
+                        " ",
+                        "short",
+                        "."
+                    ],
+                    [
+                        "I",
+                        "’",
+                        "m",
+                        " ",
+                        "not",
+                        " ",
+                        "also",
+                        " ",
+                        "sure",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "colour",
+                        " ",
+                        "of",
+                        " ",
+                        "his",
+                        " ",
+                        "clothes",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "I",
+                        " ",
+                        "will",
+                        " ",
+                        "try",
+                        " ",
+                        "to",
+                        " ",
+                        "do",
+                        " ",
+                        "my",
+                        " ",
+                        "best",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "In",
+                        " ",
+                        "some",
+                        " ",
+                        "other",
+                        " ",
+                        "details",
+                        " ",
+                        "I",
+                        " ",
+                        "will",
+                        " ",
+                        "make",
+                        " ",
+                        "mistakes",
+                        " ",
+                        "too",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "here",
+                        " ",
+                        "you",
+                        " ",
+                        "have",
+                        " ",
+                        "to",
+                        " ",
+                        "forgive",
+                        " ",
+                        "me",
+                        "."
+                    ],
+                    [
+                        "It",
+                        "’",
+                        "s",
+                        " ",
+                        "not",
+                        " ",
+                        "my",
+                        " ",
+                        "fault",
+                        "."
+                    ],
+                    [
+                        "My",
+                        " ",
+                        "friend",
+                        " ",
+                        "never",
+                        " ",
+                        "explained",
+                        " ",
+                        "anything",
+                        " ",
+                        "to",
+                        " ",
+                        "me",
+                        "."
+                    ],
+                    [
+                        "Maybe",
+                        " ",
+                        "he",
+                        " ",
+                        "thought",
+                        " ",
+                        "that",
+                        " ",
+                        "I",
+                        " ",
+                        "was",
+                        " ",
+                        "like",
+                        " ",
+                        "him",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "I",
+                        ",",
+                        " ",
+                        "unfortunately",
+                        ",",
+                        " ",
+                        "don",
+                        "’",
+                        "t",
+                        " ",
+                        "know",
+                        " ",
+                        "how",
+                        " ",
+                        "to",
+                        " ",
+                        "see",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        " ",
+                        "through",
+                        " ",
+                        "the",
+                        " ",
+                        "walls",
+                        " ",
+                        "of",
+                        " ",
+                        "a",
+                        " ",
+                        "box",
+                        "."
+                    ],
+                    [
+                        "Maybe",
+                        " ",
+                        "it",
+                        "’",
+                        "s",
+                        " ",
+                        "because",
+                        " ",
+                        "I",
+                        "’",
+                        "m",
+                        " ",
+                        "a",
+                        " ",
+                        "little",
+                        " ",
+                        "like",
+                        " ",
+                        "the",
+                        " ",
+                        "adults",
+                        "."
+                    ],
+                    [
+                        "Maybe",
+                        ",",
+                        " ",
+                        "I",
+                        "’",
+                        "m",
+                        " ",
+                        "already",
+                        " ",
+                        "old",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "Every",
+                        " ",
+                        "day",
+                        " ",
+                        "I",
+                        " ",
+                        "learnt",
+                        " ",
+                        "something",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        "’",
+                        "s",
+                        " ",
+                        "planet",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "learnt",
+                        " ",
+                        "about",
+                        " ",
+                        "his",
+                        " ",
+                        "departure",
+                        " ",
+                        "from",
+                        " ",
+                        "it",
+                        ",",
+                        " ",
+                        "about",
+                        " ",
+                        "his",
+                        " ",
+                        "journey",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "information",
+                        " ",
+                        "came",
+                        " ",
+                        "very",
+                        " ",
+                        "slowly",
+                        ",",
+                        " ",
+                        "usually",
+                        " ",
+                        "during",
+                        " ",
+                        "moments",
+                        " ",
+                        "when",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "was",
+                        " ",
+                        "thinking",
+                        " ",
+                        "about",
+                        " ",
+                        "his",
+                        " ",
+                        "past",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "On",
+                        " ",
+                        "the",
+                        " ",
+                        "third",
+                        " ",
+                        "day",
+                        ",",
+                        " ",
+                        "I",
+                        " ",
+                        "learnt",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "problem",
+                        " ",
+                        "with",
+                        " ",
+                        "the",
+                        " ",
+                        "baobabs",
+                        "."
+                    ],
+                    [
+                        "Baobabs",
+                        " ",
+                        "are",
+                        " ",
+                        "big",
+                        " ",
+                        "trees",
+                        "."
+                    ],
+                    [
+                        "I",
+                        " ",
+                        "learnt",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "problem",
+                        " ",
+                        "thanks",
+                        " ",
+                        "to",
+                        " ",
+                        "a",
+                        " ",
+                        "question",
+                        " ",
+                        "about",
+                        " ",
+                        "the",
+                        " ",
+                        "sheep",
+                        " ",
+                        "that",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "asked",
+                        " ",
+                        "me",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "Is",
+                        " ",
+                        "it",
+                        " ",
+                        "true",
+                        " ",
+                        "that",
+                        " ",
+                        "sheep",
+                        " ",
+                        "eat",
+                        " ",
+                        "little",
+                        " ",
+                        "bushes",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "Yes",
+                        "."
+                    ],
+                    [
+                        "That",
+                        "’",
+                        "s",
+                        " ",
+                        "true",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "Ah",
+                        "!"
+                    ],
+                    [
+                        "That",
+                        "’",
+                        "s",
+                        " ",
+                        "good",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "I",
+                        " ",
+                        "didn",
+                        "’",
+                        "t",
+                        " ",
+                        "understand",
+                        " ",
+                        "why",
+                        " ",
+                        "it",
+                        " ",
+                        "was",
+                        " ",
+                        "so",
+                        " ",
+                        "important",
+                        " ",
+                        "that",
+                        " ",
+                        "sheep",
+                        " ",
+                        "ate",
+                        " ",
+                        "little",
+                        " ",
+                        "bushes",
+                        "."
+                    ],
+                    [
+                        "But",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "added",
+                        ","
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "So",
+                        " ",
+                        "they",
+                        " ",
+                        "also",
+                        " ",
+                        "eat",
+                        " ",
+                        "baobabs",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "I",
+                        " ",
+                        "told",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "that",
+                        " ",
+                        "baobabs",
+                        " ",
+                        "aren",
+                        "’",
+                        "t",
+                        " ",
+                        "little",
+                        " ",
+                        "bushes",
+                        "."
+                    ],
+                    [
+                        "The",
+                        " ",
+                        "baobabs",
+                        " ",
+                        "are",
+                        " ",
+                        "right",
+                        " ",
+                        "the",
+                        " ",
+                        "opposite",
+                        "."
+                    ],
+                    [
+                        "They",
+                        " ",
+                        "are",
+                        " ",
+                        "trees",
+                        " ",
+                        "as",
+                        " ",
+                        "large",
+                        " ",
+                        "as",
+                        " ",
+                        "churches",
+                        "."
+                    ],
+                    [
+                        "And",
+                        " ",
+                        "that",
+                        " ",
+                        "even",
+                        " ",
+                        "if",
+                        " ",
+                        "he",
+                        " ",
+                        "took",
+                        " ",
+                        "nine",
+                        " ",
+                        "big",
+                        " ",
+                        "elephants",
+                        " ",
+                        "back",
+                        " ",
+                        "to",
+                        " ",
+                        "his",
+                        " ",
+                        "planet",
+                        ",",
+                        " ",
+                        "those",
+                        " ",
+                        "elephants",
+                        " ",
+                        "couldn",
+                        "’",
+                        "t",
+                        " ",
+                        "eat",
+                        " ",
+                        "one",
+                        " ",
+                        "single",
+                        " ",
+                        "baobab",
+                        "."
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "The",
+                        " ",
+                        "idea",
+                        " ",
+                        "of",
+                        " ",
+                        "​",
+                        "​",
+                        "nine",
+                        " ",
+                        "elephants",
+                        " ",
+                        "made",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "prince",
+                        " ",
+                        "laugh",
+                        ",",
+                        " ",
+                        "“",
+                        "They",
+                        " ",
+                        "would",
+                        " ",
+                        "have",
+                        " ",
+                        "to",
+                        " ",
+                        "stand",
+                        " ",
+                        "on",
+                        " ",
+                        "each",
+                        " ",
+                        "other",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "But",
+                        " ",
+                        "he",
+                        " ",
+                        "said",
+                        " ",
+                        "something",
+                        " ",
+                        "clever",
+                        ",",
+                        " ",
+                        "“",
+                        "The",
+                        " ",
+                        "baobabs",
+                        ",",
+                        " ",
+                        "before",
+                        " ",
+                        "they",
+                        " ",
+                        "grow",
+                        " ",
+                        "so",
+                        " ",
+                        "big",
+                        ",",
+                        " ",
+                        "they",
+                        "’",
+                        "re",
+                        " ",
+                        "very",
+                        " ",
+                        "small",
+                        " ",
+                        "at",
+                        " ",
+                        "the",
+                        " ",
+                        "beginning",
+                        ".",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "“",
+                        "That",
+                        "’",
+                        "s",
+                        " ",
+                        "right",
+                        ",",
+                        "”",
+                        " ",
+                        "I",
+                        " ",
+                        "said",
+                        "."
+                    ],
+                    [
+                        "“",
+                        "But",
+                        " ",
+                        "why",
+                        " ",
+                        "is",
+                        " ",
+                        "it",
+                        " ",
+                        "important",
+                        " ",
+                        "that",
+                        " ",
+                        "your",
+                        " ",
+                        "sheep",
+                        " ",
+                        "eats",
+                        " ",
+                        "the",
+                        " ",
+                        "little",
+                        " ",
+                        "baobabs",
+                        "?",
+                        "”"
+                    ]
+                ],
+                [],
+                [
+                    [
+                        "He",
+                        " ",
+                        "said",
+                        ",",
+                        " ",
+                        "“",
+                        "Oh",
+                        ",",
+                        " ",
+                        "come",
+                        " ",
+                        "on",
+                        "!"
+                    ],
+                    [
+                        "You",
+                        " ",
+                        "know",
+                        ",",
+                        "”",
+                        " ",
+                        "as",
+                        " ",
+                        "if",
+                        " ",
+                        "we",
+                        " ",
+                        "were",
+                        " ",
+                        "talking",
+                        " ",
+                        "about",
+                        " ",
+                        "something",
+                        " ",
+                        "clear",
+                        " ",
+                        "and",
+                        " ",
+                        "simple",
+                        "."
+                    ],
+                    [
+                        "And",
+                        " ",
+                        "then",
+                        " ",
+                        "I",
+                        " ",
+                        "had",
+                        " ",
+                        "to",
+                        " ",
+                        "use",
+                        " ",
+                        "my",
+                        " ",
+                        "intelligence",
+                        " ",
+                        "to",
+                        " ",
+                        "solve",
+                        " ",
+                        "the",
+                        " ",
+                        "problem",
+                        ",",
+                        " ",
+                        "without",
+                        " ",
+                        "any",
+                        " ",
+                        "assistance",
+                        "."
+                    ]
+                ]
+            ]
         }
     ]
 }
