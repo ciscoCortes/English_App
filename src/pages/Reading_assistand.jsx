@@ -10,7 +10,7 @@ const Reading_assistand = () => {
 
 
     return (
-        <div className='flex flex-col p-16'>
+        <div className='flex flex-col px-16'>
             {/* <div className='flex flex-col m-5'>
                 <h3 className='p-4 text-center capitalize'> Introduce you text</h3>
                 <textarea
@@ -24,25 +24,25 @@ const Reading_assistand = () => {
                     </Dowload_button>
                 </div>
             </div> */}
-            <div className='m-5 px-28'>
+            <div className='my-5 '>
                 <h3 className='p-4 text-center capitalize'>Hyper text</h3>
                 <div className='p-5 box'>
                     <Hyper_text paragraphs={book.chapters[5].nested} search={search} set_search={set_search} />
                 </div>
             </div>
-            <hr className='my-10 ' />
-            <div className='m-5'>
+            {/* <hr className='my-10 ' />
+            <div className='m-5 text-xs'>
                 <h3 className='p-4 text-center capitalize'>Dictionary</h3>
                 <div className='grid grid-cols-3 p-5 box '>
                     {
                         Object.keys(chapter5_dict).map((word, i) =>
-                            <div className='capitalize '>
+                            <div className='my-1 capitalize'>
                                 <span className='font-semibold '>{word + ': '} </span>
                                 <span className='font-semibold text-slate-600'>{chapter5_dict[word]}</span>
                             </div>
                         )}
                 </div>
-            </div>
+            </div> */}
 
         </div>
     )

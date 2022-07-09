@@ -4,14 +4,19 @@ import Hiperword from "./Hiperword";
 const Hyper_text = ({ paragraphs = [], set_search, search }) => {
     const [highlight, set_highlight] = useState('')
     paragraphs = paragraphs.map(p => p.reduce((acc, sentence) => [...acc, ' ', ...sentence], []))
+    let count = 0
     return (
         // pendiente ligar singos de puntuación a sus palabras ligadas
         <>
-            {paragraphs.map((p, pi) => (
-                p.length == 0 ? <br key={pi} />
-                    :
+            {paragraphs.map((p, pi) => {
+                if (p.length == 0) {
+                    return <br key={pi} />
+
+                }
+                count++
+                return (
                     <div key={pi}>
-                        <sup className="font-semibold text-purple-900 ">{pi + 1}</sup>
+                        <sup className="font-semibold text-purple-900 ">{count}</sup>
                         {
                             p.reduce((acc, word, i) => {
                                 let lemma = ''
@@ -33,7 +38,8 @@ const Hyper_text = ({ paragraphs = [], set_search, search }) => {
                                 return acc
                             }, [])}
                     </div>
-            ))}
+                )
+            })}
         </>
     )
 }

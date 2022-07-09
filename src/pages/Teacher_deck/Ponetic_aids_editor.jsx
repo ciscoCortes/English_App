@@ -3,6 +3,7 @@ import { useState } from "react"
 import Download_button from "../../components/Download_button"
 import ownDict from "../../wiki_data_trans.json"
 import Hiperword from "../../components/Hiperword"
+import lemmas from "../../lemmas.json"
 
 const phonetic_aids = {}
 let index = 0
@@ -18,48 +19,59 @@ const Phonetic_aids_editor = ({ words }) => {
     const [phonetics, set_phonetics] = useState('')
     const [aids, set_aids] = useState([...word])
     const [aids_map, set_aids_map] = useState([...word].map(() => 0))
+    const [current, set_current_term] = useState('')
+    const [saved, set_saved] = useState(false)
 
     return (
-        <>
-            <Hiperword word={word} phonetic_aids={aids} aids_map={aids_map} />
-            <div>
-                <div className="flex gap-2">
-                    {
-                        word.split('').map((vowel, i) =>
-                            <button key={i}
-                                onClick={() => update_phonetic_aids([...aids], [...aids_map], i)} >
-                                {vowel}
-                            </button>
-                        )
-                    }
+        <div div className="flex flex-col items-center justify-center h-screen">
+            <div className="px-5 pt-2 pb-1 m-4 box">
+                <Hiperword word={word} phonetic_aids={aids} aids_map={aids_map} />
+            </div>
+            <div className="flex gap-5 m-3">
+                <div>
+                    <div className={`${saved && ' text-green-900'} flex gap-2`}>
+                        {
+                            word.split('').map((vowel, i) =>
+                                <button key={i}
+                                    onClick={() => update_phonetic_aids([...aids], [...aids_map], i)} >
+                                    {vowel}
+                                </button>
+                            )
+                        }
+                    </div>
+                    <div className="flex gap-2">
+                        {
+                            phonetics.split('').map((phoneme, i) =>
+                                <button key={i}
+                                    onClick={() => current_aid = current_aid + phoneme} >
+                                    {phoneme}
+                                </button>
+                            )
+                        }
+                    </div>
                 </div>
-                <div className="flex gap-2">
-                    {
-                        phonetics.split('').map((phoneme, i) =>
-                            <button key={i}
-                                onClick={() => current_aid = current_aid + phoneme} >
-                                {phoneme}
-                            </button>
-                        )
-                    }
-                </div>
-                <button className="absolute text-red-700 m-44 right-96"
+                <button className="text-red-700 "
                     onClick={() => current_aid = 'x'} >
                     X
                 </button>
             </div>
-            <button className="absolute px-4 py-1 text-xl rounded-md shadow-lg right-44 bottom-96 m-52 hover:bg-slate-400 bg-slate-200 active:bg-slate-800 active:text-white"
-                onClick={() => get_next(index)}>
-                Next
-            </button>
-            <button className="absolute right-0 px-4 py-1 m-32 text-xl rounded-md shadow-lg active:bg-slate-800 active:text-white mr-96 bottom-96 hover:bg-slate-400 bg-slate-200"
-                onClick={() => save()}>
-                Save
-            </button>
-            <Download_button file={phonetic_aids} file_name='phonetic_aids.json'>
-                Download
-            </Download_button>
-        </>
+            <div className="flex gap-5 px-5 py-3 box">
+                <button className="btn active:text-blue-400 w-min"
+                    onClick={() => get_next(index)}>
+                    Next
+                </button>
+                <button className="btn active:text-blue-400 w-min"
+                    onClick={() => save()}>
+                    Save
+                </button>
+                <div className="btn active:text-blue-400 w-min">
+                    <Download_button file={phonetic_aids} file_name='phonetic_aids.json'>
+                        Download
+                    </Download_button>
+                </div>
+            </div>
+            <div className="m-10 text-red-900 opacity-70">{current}</div>
+        </div>
     )
 
     function update_phonetic_aids(aids, map, i) {
@@ -87,7 +99,8 @@ const Phonetic_aids_editor = ({ words }) => {
     }
 
     function get_next() {
-        const { phonetics, word } = get_phonetics(index)
+        set_saved(false)
+        let { phonetics, word } = get_phonetics(index)
         index++
         if (phonetics) {
             set_phonetics(phonetics)
@@ -107,8 +120,14 @@ const Phonetic_aids_editor = ({ words }) => {
         }
         else {
             const word = words[index]
+            set_current_term(word)
             let phonetics = ''
-            const ipaDict = ownDict[word]['pronunciation']
+            let ipaDict = ''
+            ownDict[word] && ownDict[word]['pronunciation'] ?
+                ipaDict = ownDict[word]['pronunciation']
+                :
+                ownDict[lemmas[word]] && (ipaDict = ownDict[lemmas[word]]['pronunciation'])
+
             if (ipaDict) {
                 'US' in ipaDict ? phonetics = ipaDict['US']
                     :
@@ -124,6 +143,7 @@ const Phonetic_aids_editor = ({ words }) => {
     }
 
     function save() {
+        set_saved(true)
         phonetic_aids[word] = {}
         phonetic_aids[word]['aids'] = aids
         phonetic_aids[word]['map'] = aids_map

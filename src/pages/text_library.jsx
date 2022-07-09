@@ -5,7 +5,7 @@ import dict from '../wiki_data_trans.json'
 import lemmas from '../lemmas.json'
 
 const texts_db = [text]
-const readed = [[0, 3], [0, 4]]
+const Readed = [[0, 0], [0, 1], [0, 3], [0, 4]]
 // const Text_library = ({ text }) => {
 const Text_library = () => {
     const [search, set_search_tern] = useState('I') // set_search BACKEND
@@ -14,12 +14,16 @@ const Text_library = () => {
     const [ipa, set_ipa] = useState()
 
     function set_search(term) {
-        const lemma = lemmas[term]
+        let lemma = ''
+        dict[term] && dict[term]['pronunciation'] ? lemma = term
+            :
+            lemma = lemmas[term]
         set_search_tern(lemma)
         dict[lemma] ? dict[lemma]['pronunciation']['US'] ? set_ipa(dict[lemma]['pronunciation']['US'].split(',')[0])
             : dict[lemma]['pronunciation']['IPA'] ? set_ipa(dict[lemma]['pronunciation']['IPA'].split(',')[0])
-                :
-                set_ipa('')
+                : dict[lemma]['pronunciation']['UK'] ? set_ipa(dict[lemma]['pronunciation']['UK'].split(',')[0])
+                    :
+                    set_ipa('')
             :
             set_ipa('')
     }
@@ -29,8 +33,8 @@ const Text_library = () => {
             {
                 readed.reduce((acc, [t, c], i) => {
                     const text = texts_db[t].chapters[c]
-                    if (text['words_map'][term]) {
-                        const { verses, lines } = text['words_map'][term]
+                    if (text['words_map'][lemmas[term]]) {
+                        const { verses, lines } = text['words_map'][lemmas[term]]
                         verses && acc.push(
                             <div key={i}>
                                 <div className='pl-0 mb-3 text-right text-blue-400 uppercase'>{text.title}</div>
@@ -129,7 +133,7 @@ const Text_library = () => {
                             {
                                 show_dict ? <Dict term={search} />
                                     :
-                                    <Occurrences term={search} readed={readed} />
+                                    <Occurrences term={search} readed={Readed} />
                             }
                         </div>
                     </section>

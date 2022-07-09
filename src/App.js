@@ -7,9 +7,9 @@ import Text_library from "./pages/text_library";
 import Phonetic_aids_editor from "./pages/Teacher_deck/Ponetic_aids_editor";
 import Rich_text from "./pages/Teacher_deck/Rich_text";
 import Reading_assistand from "./pages/Reading_assistand";
+import words from './to_edite.json'
 
 function App() {
-  const words = ['this', 'that']
   return (
     <Router>
       <Routes>

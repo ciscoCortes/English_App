@@ -1,4 +1,275 @@
 {
+    "assistance": {
+        "pronunciation": {
+            "US": "/əˈsɪstəns/"
+        }
+    },
+    "unfortunately": {
+        "morfology": "unfortunately (comparative more unfortunately, superlative most unfortunately)",
+        "pronunciation": {
+            "UK": "/ʌnˈfɔːtjʊnətli/, /ʌnˈfɔːt͡ʃənətli/",
+            "US": "/ʌnˈfɔɹt͡ʃənɪtli/"
+        },
+        "meanings": [
+            {
+                "class": "adverb",
+                "examples": [
+                    "The houses which burned down could have been saved. Unfortunately, the fire truck had broken down on the way.",
+                    "Unfortunately, the uproar awoke Mr. Jones, who sprang out of bed, making sure that there was a fox in the yard."
+                ]
+            }
+        ]
+    },
+    "alright": {
+        "morfology": "alright (not comparable)",
+        "pronunciation": {
+            "IPA": "/ˌɔːlˈɹaɪt/"
+        },
+        "meanings": [
+            {
+                "class": "adjective",
+                "examples": [
+                    "But that day's gone now.",
+                    "You have my heart alright.",
+                    "Where ever I go, both to and fro",
+                    "You did alright in your day, I reckon—",
+                    "\"You're alright Johnny,\" she said in a way that actually made him feel alright. At least for a little while.",
+                    "Bladyughfoulmoecklenburgwhurawhorascortastrumpapornanennykocksapastippatappatupperstrippuckputtanach, eh? You have it alright."
+                ]
+            }
+        ]
+    },
+    "intelligence": {
+        "morfology": "intelligence (countable and uncountable, plural intelligences)",
+        "pronunciation": {
+            "IPA": "/ɪnˈtɛl.ɪ.d͡ʒəns/"
+        },
+        "meanings": [
+            {
+                "class": "noun",
+                "examples": [
+                    "He lived rather in a fair intelligence than any friendship with the favourite",
+                    "The great Intelligences fair / That range above our mortal state, / In circle round the blessed gate, / Received and gave him welcome there.",
+                    "He passes beyond the projections and thought forms of his own creation to the wholly other and independent world of the angelic intelligences."
+                ]
+            }
+        ]
+    },
+    "solve": {
+        "morfology": "solve (plural solves)",
+        "pronunciation": {
+            "UK": "/sɒlv/",
+            "US": "/sɑlv/, /sɔlv/"
+        },
+        "meanings": [
+            {
+                "class": "noun",
+                "examples": [
+                    "The solve is this, that thou dost common grow.",
+                    "“Hey, Mr. Quilt Bandit.”  Ian smiled. “Nice solve, Nancy Drew.”",
+                    "KEVIN: I decided a long time ago that just because I love Raymond, doesn't mean I have to love the people he works with. Good solve, Detective."
+                ]
+            }
+        ]
+    },
+    "baobab": {},
+    "tall": {
+        "morfology": "tall (plural talls)",
+        "pronunciation": {
+            "UK": "/tɔːl/",
+            "US": "/tɔl/"
+        },
+        "meanings": [
+            {
+                "class": "noun",
+                "examples": [
+                    "Do you have this in a tall?",
+                    "The industries that best accommodate talls are those that have faced personal injury lawsuits.",
+                    "Fremantle remains unsure about the status a pair of key talls ahead of a defining clash with Adelaide at Optus Stadium.",
+                    "But in the second generation of hybrids  talls and dwarfs were both present, and in the proportion of twelve talls to four dwarfs."
+                ]
+            }
+        ]
+    },
+    "fault": {
+        "morfology": "fault (third-person singular simple present faults, present participle faulting, simple past and past participle faulted)",
+        "pronunciation": {
+            "UK": "/fɔːlt/, /fɒlt/",
+            "US": "/fɔlt/"
+        },
+        "meanings": [
+            {
+                "class": "verb",
+                "examples": [
+                    "For that, says he, I ne'er will fault thee / But for humbleness exalt thee."
+                ]
+            }
+        ]
+    },
+    "forgive": {
+        "morfology": "forgive (third-person singular simple present forgives, present participle forgiving, simple past forgave, past participle forgiven)",
+        "pronunciation": {
+            "US": "/fə(ɹ)ˈɡɪv/, /fɔː(ɹ)ˈɡɪv/"
+        },
+        "meanings": [
+            {
+                "class": "verb",
+                "examples": [
+                    "Please forgive me if my phone goes off - I'm expecting an urgent call from my boss.",
+                    "Forgive others, not because they deserve forgiveness, but because you deserve peace.",
+                    "Forgive a debt, that is, tell a debtor that a repayment of a loan is no longer needed.",
+                    "The brave know only how to forgive  […] A coward never forgave; it is not in his nature."
+                ]
+            }
+        ]
+    },
+    "he": {
+        "morfology": "he",
+        "pronunciation": {
+            "IPA": "/ˈhiː/, (unstressed) IPA: /hi/, /i/"
+        },
+        "meanings": [
+            {
+                "class": "noun",
+                "examples": [
+                    "This Nehama claimed that in his own hand he recognized the consonant “he” of his Hebrew language, and in the letter “vav” his own male soul."
+                ]
+            }
+        ]
+    },
+    "opposite": {
+        "morfology": "opposite",
+        "pronunciation": {
+            "UK": "/ˈɒpəzɪt/, /ˈɒpəsɪt/",
+            "US": "/ˈɑp(ə)sɪt/, /ˈɑpəzɪt/"
+        },
+        "meanings": [
+            {
+                "class": "preposition",
+                "examples": [
+                    "He lives opposite the pub.",
+                    "He played opposite Marilyn Monroe.",
+                    "The game show Just Men! aired opposite The Young and the Restless on CBS."
+                ]
+            }
+        ]
+    },
+    "slowly": {
+        "pronunciation": {
+            "US": "/ˈsləʊli/"
+        }
+    },
+    "important": {
+        "morfology": "important (comparative more important, superlative most important)",
+        "pronunciation": {
+            "UK": "/ɪmˈpɔːtənt/",
+            "US": "/ɪmˈpɔ˞ʔənt/"
+        },
+        "meanings": [
+            {
+                "class": "adjective",
+                "examples": [
+                    "It is very important to give your daughter independence in her life so she learns from experience."
+                ]
+            }
+        ]
+    },
+    "everybody": {
+        "pronunciation": {
+            "IPA": "/ˈɛvribɒdi/"
+        }
+    },
+    "sheep": {
+        "morfology": "sheep (countable and uncountable, plural sheep)",
+        "pronunciation": {
+            "IPA": "/ʃiːp/"
+        },
+        "meanings": [
+            {
+                "class": "noun",
+                "examples": [
+                    "And fools like me, who cross the sea and come to foreign lands / Ask the sheep, for their beliefs do you kill on God's command?"
+                ]
+            }
+        ]
+    },
+    "pencil": {
+        "morfology": "pencil (third-person singular simple present pencils, present participle (UK) pencilling or (US) penciling, simple past and past participle (UK) pencilled or (US) penciled)",
+        "pronunciation": {
+            "IPA": "/ˈpɛnsəl/",
+            "UK": "/ˈpɛnsɪl/"
+        },
+        "meanings": [
+            {
+                "class": "verb",
+                "examples": [
+                    "I penciled  a brief reminder in my notebook.",
+                    "It pencilled each flower with rich and variegated hues, and threw over its exuberant foliage a vesture of emerald green."
+                ]
+            }
+        ]
+    },
+    "colour": {},
+    "paint": {
+        "morfology": "paint (third-person singular simple present paints, present participle painting, simple past and past participle painted)",
+        "pronunciation": {
+            "IPA": "/peɪnt/"
+        },
+        "meanings": [
+            {
+                "class": "verb",
+                "examples": [
+                    "Let her paint an inch thick.",
+                    "to paint a portrait or a landscape",
+                    "If folly grow romantic, I must paint it.",
+                    "not painted with the crimson spots of blood",
+                    "I've been painting since I was a young child.",
+                    "\"We'll paint the target for the flyboys,\" the JTAC said.",
+                    "Disloyal? / The word is too good to paint out her wickedness.",
+                    "Cuckoo buds of yellow hue / Do paint the meadows with delight.",
+                    "She sued the author of the biography, claiming it painted her as a duplicitous fraud.",
+                    "Sent to a minimized window when the icon's background must be filled before it is painted."
+                ]
+            }
+        ]
+    },
+    "departure": {
+        "morfology": "departure (countable and uncountable, plural departures)",
+        "pronunciation": {
+            "UK": "/dɪˈpɑː(ɹ)tjə(ɹ)/, /dɪˈpɑː(ɹ)t͡ʃə(ɹ)/"
+        },
+        "meanings": [
+            {
+                "class": "noun",
+                "examples": [
+                    "The time of my departure is at hand.",
+                    "The departure was scheduled for noon.",
+                    "any departure from a national standard",
+                    "no other remedy  […]  but absolute departure",
+                    "The area is computed by latitudes and departures.",
+                    "There are several significant departures, however, from current practice.",
+                    "His timely departure  […]  barred him from the knowledge of his son's miseries."
+                ]
+            }
+        ]
+    },
+    "learnt": {
+        "morfology": "learnt",
+        "pronunciation": {
+            "UK": "/ˈlɜːnt/",
+            "US": "/ˈlɝnt/"
+        },
+        "meanings": [
+            {
+                "class": "verb",
+                "examples": [
+                    "I learnt so many things in this school.",
+                    "She has learnt to adapt to the changes quickly."
+                ]
+            }
+        ]
+    },
+    "bushes": {},
     "lists": {},
     "enjoying": {},
     "misses": {},
@@ -2392,7 +2663,9 @@
     },
     "could": {
         "morfology": "could (plural coulds)",
-        "pronunciation": {},
+        "pronunciation": {
+            "US": "/ˈkʊd/"
+        },
         "meanings": [
             {
                 "class": "noun",
@@ -9912,7 +10185,11 @@
     "services": {},
     "hours": {},
     "figures": {},
-    "came": {},
+    "came": {
+        "pronunciation": {
+            "IPA": "/ˈkeɪm/"
+        }
+    },
     "yeah": {
         "morfology": "yeah",
         "pronunciation": {
@@ -16992,7 +17269,7 @@
     "course": {
         "morfology": "course (not comparable)",
         "pronunciation": {
-            "IPA": "/kɔːs/"
+            "IPA": "/kɔːrs/"
         },
         "meanings": [
             {
@@ -18179,7 +18456,11 @@
             }
         ]
     },
-    "added": {},
+    "added": {
+        "pronunciation": {
+            "US": "/ˈædɪd/"
+        }
+    },
     "photo": {
         "morfology": "photo (third-person singular simple present photos, present participle photoing, simple past and past participle photoed)",
         "pronunciation": {

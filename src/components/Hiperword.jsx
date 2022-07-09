@@ -16,7 +16,7 @@ const Hiperword = ({ word = '', phonetic_aids, aids_map, search, set_search, id,
     return (
         <div className="inline-block my-1">
             {phonetic_aids &&
-                <sub className="flex justify-between -mb-0.5">
+                <sub className="flex justify-between">
                     {phonetic_aids.map((e, i) => {
                         switch (aids_map[i]) {
                             case 1:  //phoneme
@@ -28,20 +28,20 @@ const Hiperword = ({ word = '', phonetic_aids, aids_map, search, set_search, id,
                             case 2:  //accent
                                 return (
                                     <span key={i}>
-                                        <sub className='font-extrabold text-red-900' >'</sub>
+                                        <span className='font-bold text-red-900 '>'</span>
                                         <span className='text-transparent' >{e}</span>
                                     </span>
                                 )
                             case 3:  //accent + phoneme
                                 return (
                                     <span key={i}>
-                                        <span className='-mr-0.5 text-red-900'>'</span>
+                                        <span className='-mr-0.5 font-bold text-red-900'>'</span>
                                         <span className='text-green-900 '>{e}</span>
                                     </span>
                                 )
                             default:
                                 return (
-                                    <span className='text-transparent mb-0.5' key={i}>{e}</span>
+                                    <span className='text-transparent' key={i}>{e}</span>
                                 )
                         }
                     })
@@ -50,11 +50,10 @@ const Hiperword = ({ word = '', phonetic_aids, aids_map, search, set_search, id,
             }
             <button
                 title={phonetic_aids}
-                className={`font-light ${search === word.toLocaleLowerCase() && 'font-medium'} ${highlight === id && 'text-blue-400'}`}
+                className={`font-light ${lemmas[search] && lemmas[search] === lemmas[word.toLocaleLowerCase()] && 'font-medium'} ${highlight === id && 'text-blue-400'}`}
                 onClick={() => {
                     set_highlight(id)
-                    lemmas[word] ? set_search(lemmas[word])
-                        : set_search(word.toLocaleLowerCase())
+                    set_search(word.toLocaleLowerCase())
                 }}
             >
                 {word}
